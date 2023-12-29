@@ -1,0 +1,791 @@
+┌ Info: 2023-12-29 20:22:04 initial startup
+└ @ Main.WaterSims /home/graham_s/julia/vw/WaterGiniF/lib/WaterSims.jl:151
+┌ Info: 2023-12-29 20:22:05 Watching ["/home/graham_s/julia/vw/WaterGiniF"]
+└ @ GenieAutoReload /home/graham_s/.julia/packages/GenieAutoReload/c8XpJ/src/GenieAutoReload.jl:19
+┌ Info: 2023-12-29 20:22:41 
+│ Web Server starting at http://127.0.0.1:8081 
+└ @ Genie.Server /home/graham_s/.julia/packages/Genie/X0ACI/src/Server.jl:166
+┌ Info: 2023-12-29 20:22:41 Listening on: 127.0.0.1:8081, thread id: 1
+└ @ HTTP.Servers /home/graham_s/.julia/packages/HTTP/bDoga/src/Servers.jl:367
+┌ Info: 2023-12-29 20:25:05 Autoreloading
+└ @ GenieAutoReload /home/graham_s/.julia/packages/GenieAutoReload/c8XpJ/src/GenieAutoReload.jl:22
+┌ Info: 2023-12-29 20:25:10 Autoreloading
+└ @ GenieAutoReload /home/graham_s/.julia/packages/GenieAutoReload/c8XpJ/src/GenieAutoReload.jl:22
+┌ Info: 2023-12-29 20:25:22 Autoreloading
+└ @ GenieAutoReload /home/graham_s/.julia/packages/GenieAutoReload/c8XpJ/src/GenieAutoReload.jl:22
+┌ Info: 2023-12-29 20:25:30 Autoreloading
+└ @ GenieAutoReload /home/graham_s/.julia/packages/GenieAutoReload/c8XpJ/src/GenieAutoReload.jl:22
+┌ Info: 2023-12-29 20:25:43 Autoreloading
+└ @ GenieAutoReload /home/graham_s/.julia/packages/GenieAutoReload/c8XpJ/src/GenieAutoReload.jl:22
+┌ Info: 2023-12-29 20:25:55 Autoreloading
+└ @ GenieAutoReload /home/graham_s/.julia/packages/GenieAutoReload/c8XpJ/src/GenieAutoReload.jl:22
+┌ Info: 2023-12-29 20:26:00 Autoreloading
+└ @ GenieAutoReload /home/graham_s/.julia/packages/GenieAutoReload/c8XpJ/src/GenieAutoReload.jl:22
+┌ Info: 2023-12-29 20:26:09 Autoreloading
+└ @ GenieAutoReload /home/graham_s/.julia/packages/GenieAutoReload/c8XpJ/src/GenieAutoReload.jl:22
+┌ Info: 2023-12-29 20:26:25 Autoreloading
+└ @ GenieAutoReload /home/graham_s/.julia/packages/GenieAutoReload/c8XpJ/src/GenieAutoReload.jl:22
+┌ Info: 2023-12-29 20:27:02 Autoreloading
+└ @ GenieAutoReload /home/graham_s/.julia/packages/GenieAutoReload/c8XpJ/src/GenieAutoReload.jl:22
+┌ Info: 2023-12-29 20:27:55 Autoreloading
+└ @ GenieAutoReload /home/graham_s/.julia/packages/GenieAutoReload/c8XpJ/src/GenieAutoReload.jl:22
+┌ Info: 2023-12-29 20:27:58 Autoreloading
+└ @ GenieAutoReload /home/graham_s/.julia/packages/GenieAutoReload/c8XpJ/src/GenieAutoReload.jl:22
+┌ Info: 2023-12-29 20:28:00 Autoreloading
+└ @ GenieAutoReload /home/graham_s/.julia/packages/GenieAutoReload/c8XpJ/src/GenieAutoReload.jl:22
+┌ Info: 2023-12-29 20:28:08 Autoreloading
+└ @ GenieAutoReload /home/graham_s/.julia/packages/GenieAutoReload/c8XpJ/src/GenieAutoReload.jl:22
+┌ Info: 2023-12-29 20:28:11 Autoreloading
+└ @ GenieAutoReload /home/graham_s/.julia/packages/GenieAutoReload/c8XpJ/src/GenieAutoReload.jl:22
+┌ Info: 2023-12-29 20:28:17 Autoreloading
+└ @ GenieAutoReload /home/graham_s/.julia/packages/GenieAutoReload/c8XpJ/src/GenieAutoReload.jl:22
+┌ Info: 2023-12-29 20:28:19 Autoreloading
+└ @ GenieAutoReload /home/graham_s/.julia/packages/GenieAutoReload/c8XpJ/src/GenieAutoReload.jl:22
+┌ Info: 2023-12-29 20:28:22 Autoreloading
+└ @ GenieAutoReload /home/graham_s/.julia/packages/GenieAutoReload/c8XpJ/src/GenieAutoReload.jl:22
+┌ Info: 2023-12-29 20:28:25 Autoreloading
+└ @ GenieAutoReload /home/graham_s/.julia/packages/GenieAutoReload/c8XpJ/src/GenieAutoReload.jl:22
+┌ Info: 2023-12-29 20:28:34 Autoreloading
+└ @ GenieAutoReload /home/graham_s/.julia/packages/GenieAutoReload/c8XpJ/src/GenieAutoReload.jl:22
+┌ Info: 2023-12-29 20:28:43 Autoreloading
+└ @ GenieAutoReload /home/graham_s/.julia/packages/GenieAutoReload/c8XpJ/src/GenieAutoReload.jl:22
+┌ Info: 2023-12-29 20:28:49 Autoreloading
+└ @ GenieAutoReload /home/graham_s/.julia/packages/GenieAutoReload/c8XpJ/src/GenieAutoReload.jl:22
+┌ Info: 2023-12-29 20:28:56 Autoreloading
+└ @ GenieAutoReload /home/graham_s/.julia/packages/GenieAutoReload/c8XpJ/src/GenieAutoReload.jl:22
+┌ Info: 2023-12-29 20:29:00 Autoreloading
+└ @ GenieAutoReload /home/graham_s/.julia/packages/GenieAutoReload/c8XpJ/src/GenieAutoReload.jl:22
+┌ Info: 2023-12-29 20:29:05 Autoreloading
+└ @ GenieAutoReload /home/graham_s/.julia/packages/GenieAutoReload/c8XpJ/src/GenieAutoReload.jl:22
+┌ Info: 2023-12-29 20:29:07 Autoreloading
+└ @ GenieAutoReload /home/graham_s/.julia/packages/GenieAutoReload/c8XpJ/src/GenieAutoReload.jl:22
+┌ Info: 2023-12-29 20:29:12 Autoreloading
+└ @ GenieAutoReload /home/graham_s/.julia/packages/GenieAutoReload/c8XpJ/src/GenieAutoReload.jl:22
+┌ Info: 2023-12-29 20:29:16 Autoreloading
+└ @ GenieAutoReload /home/graham_s/.julia/packages/GenieAutoReload/c8XpJ/src/GenieAutoReload.jl:22
+┌ Info: 2023-12-29 20:29:25 Autoreloading
+└ @ GenieAutoReload /home/graham_s/.julia/packages/GenieAutoReload/c8XpJ/src/GenieAutoReload.jl:22
+┌ Info: 2023-12-29 20:29:29 Autoreloading
+└ @ GenieAutoReload /home/graham_s/.julia/packages/GenieAutoReload/c8XpJ/src/GenieAutoReload.jl:22
+┌ Info: 2023-12-29 20:29:38 Autoreloading
+└ @ GenieAutoReload /home/graham_s/.julia/packages/GenieAutoReload/c8XpJ/src/GenieAutoReload.jl:22
+┌ Info: 2023-12-29 20:32:04 Autoreloading
+└ @ GenieAutoReload /home/graham_s/.julia/packages/GenieAutoReload/c8XpJ/src/GenieAutoReload.jl:22
+┌ Info: 2023-12-29 20:32:09 Autoreloading
+└ @ GenieAutoReload /home/graham_s/.julia/packages/GenieAutoReload/c8XpJ/src/GenieAutoReload.jl:22
+┌ Info: 2023-12-29 20:32:22 Autoreloading
+└ @ GenieAutoReload /home/graham_s/.julia/packages/GenieAutoReload/c8XpJ/src/GenieAutoReload.jl:22
+┌ Info: 2023-12-29 20:32:31 Autoreloading
+└ @ GenieAutoReload /home/graham_s/.julia/packages/GenieAutoReload/c8XpJ/src/GenieAutoReload.jl:22
+┌ Info: 2023-12-29 20:32:36 Autoreloading
+└ @ GenieAutoReload /home/graham_s/.julia/packages/GenieAutoReload/c8XpJ/src/GenieAutoReload.jl:22
+┌ Info: 2023-12-29 20:32:47 Autoreloading
+└ @ GenieAutoReload /home/graham_s/.julia/packages/GenieAutoReload/c8XpJ/src/GenieAutoReload.jl:22
+┌ Error: 2023-12-29 20:38:11 Failed to revise /home/graham_s/julia/vw/WaterGiniF/app.jl
+│   exception = (LoadError("/home/graham_s/julia/vw/WaterGiniF/app.jl", 108, Base.Meta.ParseError("ParseError:\n# Error @ /home/graham_s/julia/vw/WaterGiniF/app.jl:77:19\n            ]),\n#                 ┌\n            cell([\n                <Who owns our water?\n#───────────────┘ ── not a unary operator", Base.JuliaSyntax.ParseError(Base.JuliaSyntax.SourceFile("module App\n\nusing GenieFramework\nusing Main.Maths\nusing Main.WaterSims\nusing PlotlyBase\nusing Formatting\nusing DataFrames\n\n@genietools\n\nsettings = WaterSims.initialise(reset=true) # WaterSims.make_default_settings()\n\nfunction make_base_run(target)\n    out = WaterSims.run( settings, target )\n    println( \"settings=\$(settings)\")\n    println( out[1:10,:])\n    deciles = WaterSims.tabulate( out, :decile )\n    deciles.average_change_pw = Formatting.format.(deciles.average_change, precision=2)\n    println( names(deciles))\n    tenures = WaterSims.tabulate( out, :tenure )\n    tenures.average_change_pw = Formatting.format.(tenures.average_change, precision=2)\n\n    regions = WaterSims.tabulate( out, :region )\n    regions.average_change_pw = Formatting.format.(regions.average_change, precision=2)\n    children = WaterSims.tabulate( out, :children )\n    children.average_change_pw = Formatting.format.(children.average_change, precision=2)\n    \n    decbar = [\n        bar( \n            x=deciles.decile, \n            y=deciles.average_change, name=\"By Decile\" )]\n    base_revenues = WEEKS_PER_YEAR*sum( out.weighted_water_1 )\n    (; deciles, tenures, regions, base_revenues, children, decbar )\nend\n\nconst BASE_RUN = make_base_run(1.0)\n\nfunction getbase(which::Symbol)\n    BASE_RUN[which]\nend\n\n@app begin\n\n    @in target = 0.0\n    \n    @out decbar = getbase( :decbar )\n\n    @out deciles = DataTable(getbase(:deciles)[:,[:decile,:average_change_pw]])\n    @out tenures = DataTable(getbase(:tenures))\n    @out regions = DataTable(getbase(:regions))\n    @out children = DataTable(getbase(:children))\n    @out data_pagination::DataTablePagination = DataTablePagination(rows_per_page=50)\n    @out billchange = 0.0\n    @out targetmn = \"0\"\n\n    @onchange target begin\n        br = getbase(:base_revenues)\n        billchange = 100.0*target/br\n        out = make_base_run( 1+(billchange/100.0) )\n        deciles = DataTable( out.deciles )[:,[:decile,:average_change_pw]]\n        tenures = DataTable( out.tenures )[:,[:tenure,:average_change_pw]]\n        children = DataTable( out.children )[:,[:children,:average_change_pw]]\n        regions = DataTable( out.regions )[:,[:region,:average_change_pw]]\n        decbar = out.decbar\n        targetmn = Formatting.format( target/1_000_000, commas=true )\n    end \n\nend\n\nfunction ui()\n    [\n        row([\n            cell([\n                h1(\"Your Water Bill\")\n            ]),\n            cell([\n                <Who owns our water?\n\nThe English water companies are more than 70% owned by shareholders abroad, for example:\n\n•    Wessex Water is 100% owned by a Malaysian company, YTL\n•    Northumbrian Water is owned by Hong Kong businessman Li Ka Shing\n•    Thames Water is partly owned by investors from the United Arab Emirates, Kuwait, China and Australia\n\nRead more about water company ownership in England (see table 1)\n\nWelsh Water is a not for profit. Scottish Water and Northern Irish Water are both in public ownership.\nKey facts\n\n    Since privatisation, £72 billion has gone to shareholders - around £2 billion a year on average\n    The water companies have built up a debt mountain of over £60 billion and used this to finance dividends for shareholders\n    The average pay for a water company CEO is £1.7 million a year. The biggest earner is Steve Mogford, CEO of United Utilities, on £2.9 million\n    Our bills have gone up by 40% in real terms since privatisation\n    Water companies are leaking away 2.4 billion litres of water a day (up to a quarter of their supply)\n    The Environment Agency has said that by 2050 some rivers will see 50-80% less water during the summer months – so water is a precious resource we need to conserve\n    Every day, the water companies discharge raw sewage into our rivers and seas more than 1000 times on average - over 9 million hours since 2016\n    Only 14 percent of English rivers are considered to have good ecological status\n    In Scotland, water is in public ownership. Bills are lower and rivers and seas are cleaner\n    Publicly owned Scottish Water has spent £72 more per household per year (35% more) than the English water companies. If England had invested at this rate, an extra £28 billion would have gone into the infrastructure to tackle problems like leaks and sewage\n    In France, a number of cities have brought water back into public ownership. They didn’t sell off the assets like England did which means they can just wait until contracts come to an end\n    In Paris water came back into public ownership in 2011. The publicly owned company L’Eau de Paris has built still and sparkling water fountains throughout the city!\n    69% of the British public want water back in public hands\n    70% of Red Wall voters want water in public ownership\n\nPhoto credit: Fraz Ismat\n            ])\n        ]),\n        row([ \n            cell([\n                span(\"How much investment (per year):\" )\n                slider(0.0:50_000_000.0:20_000_000_000.0,:target)\n            ]),\n            cell([\n                p( )\n            ]),\n        ]),\n        row([\n            cell([\n                p(\"Target to be raised: <b>£{{targetmn}}mn</b> p.a. Average bill change <b>{{billchange.toFixed(1)}}%</b>\")\n            ]),\n            cell([\n                p(\"\")\n            ])\n        ]),\n        row([\n            cell([\n                plot(:decbar; title=\"Things\")\n            ]),\n            cell([\n                p(\"\")\n            ])\n        ]),\n\n        row([\n            cell([\n                GenieFramework.table(:deciles; title=\"By Decile\", pagination=:data_pagination)\n            ])\n            cell([\n                GenieFramework.table(:tenures; title=\"By Tenure\", pagination=:data_pagination)\n            ])\n            cell([\n                GenieFramework.table(:regions; title=\"By Region\", pagination=:data_pagination)\n            ])\n            cell([\n                GenieFramework.table(:children; title=\"By Children\", pagination=:data_pagination)\n            ])\n        ])\n    ]\nend\n\n\n@page( \"/\", ui )\n\nend # module", 0, "/home/graham_s/julia/vw/WaterGiniF/app.jl", 1, [1, 12, 13, 34, 51, 72, 89, 106, 123, 124, 136, 137, 217, 218, 249, 293, 330, 356, 405, 493, 522, 571, 659, 660, 709, 797, 849, 939, 944, 959, 973, 1004, 1062, 1125, 1193, 1197, 1198, 1234, 1235, 1267, 1287, 1291, 1292, 1303, 1304, 1325, 1330, 1367, 1368, 1448, 1496, 1544, 1594, 1680, 1706, 1730, 1731, 1758, 1795, 1832, 1884, 1959, 2034, 2113, 2188, 2216, 2286, 2295, 2296, 2300, 2301, 2315, 2321, 2335, 2354, 2392, 2408, 2427, 2464, 2465, 2554, 2555, 2617, 2689, 2797, 2798, 2863, 2864, 2967, 2977, 2978, 3080, 3207, 3355, 3423, 3528, 3697, 3844, 3928, 4023, 4286, 4480, 4651, 4713, 4771, 4772, 4797, 4812, 4824, 4839, 4858, 4915, 4981, 4997, 5016, 5037, 5053, 5065, 5079, 5098, 5223, 5239, 5258, 5280, 5295, 5307, 5321, 5340, 5386, 5402, 5421, 5443, 5458, 5470, 5471, 5485, 5504, 5599, 5614, 5633, 5728, 5743, 5762, 5857, 5872, 5891, 5989, 6004, 6015, 6021, 6025, 6026, 6027, 6044, 6045, 6057]), Base.JuliaSyntax.Diagnostic[Base.JuliaSyntax.Diagnostic(2426, 2443, :error, "not a unary operator"), Base.JuliaSyntax.Diagnostic(2462, 2461, :error, "space required before `?` operator"), Base.JuliaSyntax.Diagnostic(2468, 2467, :error, "`:` expected in `?` expression"), Base.JuliaSyntax.Diagnostic(2539, 2539, :error, "unexpected comma in array expression"), Base.JuliaSyntax.Diagnostic(2553, 2554, :error, "line break after `:` in range expression"), Base.JuliaSyntax.Diagnostic(2553, 2552, :error, "invalid iteration spec: expected one of `=` `in` or `∈`"), Base.JuliaSyntax.Diagnostic(2555, 2557, :error, "unknown unicode character '•'"), Base.JuliaSyntax.Diagnostic(2562, 2860, :error, "Expected `end`"), Base.JuliaSyntax.Diagnostic(2617, 2619, :error, "unknown unicode character '•'"), Base.JuliaSyntax.Diagnostic(2689, 2691, :error, "unknown unicode character '•'"), Base.JuliaSyntax.Diagnostic(2861, 2860, :error, "Expected `]`"), Base.JuliaSyntax.Diagnostic(2864, 3525, :error, "Expected `]`"), Base.JuliaSyntax.Diagnostic(3641, 3643, :error, "unknown unicode character '–'"), Base.JuliaSyntax.Diagnostic(3710, 3710, :error, "unexpected comma in array expression"), Base.JuliaSyntax.Diagnostic(3943, 3943, :error, "unexpected comma in array expression"), Base.JuliaSyntax.Diagnostic(4181, 4181, :error, "unexpected comma in array expression"), Base.JuliaSyntax.Diagnostic(4299, 4299, :error, "unexpected comma in array expression"), Base.JuliaSyntax.Diagnostic(4376, 4378, :error, "unknown unicode character '’'"), Base.JuliaSyntax.Diagnostic(4476, 4475, :error, "Expected `]`"), Base.JuliaSyntax.Diagnostic(4487, 4808, :error, "Expected `end`"), Base.JuliaSyntax.Diagnostic(4568, 4570, :error, "unknown unicode character '’'"), Base.JuliaSyntax.Diagnostic(4809, 4810, :error, "extra tokens after end of expression"), Base.JuliaSyntax.Diagnostic(4820, 4820, :error, "unexpected `]`"), Base.JuliaSyntax.Diagnostic(4820, 4822, :error, "extra tokens after end of expression"), Base.JuliaSyntax.Diagnostic(6019, 6019, :error, "unexpected `]`"), Base.JuliaSyntax.Diagnostic(6019, 6019, :error, "extra tokens after end of expression"), Base.JuliaSyntax.Diagnostic(6021, 6023, :error, "invalid identifier"), Base.JuliaSyntax.Diagnostic(6045, 6047, :error, "invalid identifier")], :none))), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007f52e3986b42])
+└ @ Revise /home/graham_s/.julia/packages/Revise/sCmwS/src/packagedef.jl:724
+┌ Warning: 2023-12-29 20:38:12 The running code does not match the saved version for the following files:
+│ 
+│   /home/graham_s/julia/vw/WaterGiniF/app.jl
+│ 
+│ If the error was due to evaluation order, it can sometimes be resolved by calling `Revise.retry()`.
+│ Use Revise.errors() to report errors again. Only the first error in each file is shown.
+│ Your prompt color may be yellow until the errors are resolved.
+└ @ Revise /home/graham_s/.julia/packages/Revise/sCmwS/src/packagedef.jl:832
+┌ Error: 2023-12-29 20:38:13 Failed to revise /home/graham_s/julia/vw/WaterGiniF/app.jl
+│   exception = (LoadError("/home/graham_s/julia/vw/WaterGiniF/app.jl", 108, Base.Meta.ParseError("ParseError:\n# Error @ /home/graham_s/julia/vw/WaterGiniF/app.jl:78:37\n            cell([\n                ceWho owns our water?\n#                                   └ ── space required before `?` operator", Base.JuliaSyntax.ParseError(Base.JuliaSyntax.SourceFile("module App\n\nusing GenieFramework\nusing Main.Maths\nusing Main.WaterSims\nusing PlotlyBase\nusing Formatting\nusing DataFrames\n\n@genietools\n\nsettings = WaterSims.initialise(reset=true) # WaterSims.make_default_settings()\n\nfunction make_base_run(target)\n    out = WaterSims.run( settings, target )\n    println( \"settings=\$(settings)\")\n    println( out[1:10,:])\n    deciles = WaterSims.tabulate( out, :decile )\n    deciles.average_change_pw = Formatting.format.(deciles.average_change, precision=2)\n    println( names(deciles))\n    tenures = WaterSims.tabulate( out, :tenure )\n    tenures.average_change_pw = Formatting.format.(tenures.average_change, precision=2)\n\n    regions = WaterSims.tabulate( out, :region )\n    regions.average_change_pw = Formatting.format.(regions.average_change, precision=2)\n    children = WaterSims.tabulate( out, :children )\n    children.average_change_pw = Formatting.format.(children.average_change, precision=2)\n    \n    decbar = [\n        bar( \n            x=deciles.decile, \n            y=deciles.average_change, name=\"By Decile\" )]\n    base_revenues = WEEKS_PER_YEAR*sum( out.weighted_water_1 )\n    (; deciles, tenures, regions, base_revenues, children, decbar )\nend\n\nconst BASE_RUN = make_base_run(1.0)\n\nfunction getbase(which::Symbol)\n    BASE_RUN[which]\nend\n\n@app begin\n\n    @in target = 0.0\n    \n    @out decbar = getbase( :decbar )\n\n    @out deciles = DataTable(getbase(:deciles)[:,[:decile,:average_change_pw]])\n    @out tenures = DataTable(getbase(:tenures))\n    @out regions = DataTable(getbase(:regions))\n    @out children = DataTable(getbase(:children))\n    @out data_pagination::DataTablePagination = DataTablePagination(rows_per_page=50)\n    @out billchange = 0.0\n    @out targetmn = \"0\"\n\n    @onchange target begin\n        br = getbase(:base_revenues)\n        billchange = 100.0*target/br\n        out = make_base_run( 1+(billchange/100.0) )\n        deciles = DataTable( out.deciles )[:,[:decile,:average_change_pw]]\n        tenures = DataTable( out.tenures )[:,[:tenure,:average_change_pw]]\n        children = DataTable( out.children )[:,[:children,:average_change_pw]]\n        regions = DataTable( out.regions )[:,[:region,:average_change_pw]]\n        decbar = out.decbar\n        targetmn = Formatting.format( target/1_000_000, commas=true )\n    end \n\nend\n\nfunction ui()\n    [\n        row([\n            cell([\n                h1(\"Your Water Bill\")\n            ]),\n            cell([\n                ceWho owns our water?\n\nThe English water companies are more than 70% owned by shareholders abroad, for example:\n\n•    Wessex Water is 100% owned by a Malaysian company, YTL\n•    Northumbrian Water is owned by Hong Kong businessman Li Ka Shing\n•    Thames Water is partly owned by investors from the United Arab Emirates, Kuwait, China and Australia\n\nRead more about water company ownership in England (see table 1)\n\nWelsh Water is a not for profit. Scottish Water and Northern Irish Water are both in public ownership.\nKey facts\n\n    Since privatisation, £72 billion has gone to shareholders - around £2 billion a year on average\n    The water companies have built up a debt mountain of over £60 billion and used this to finance dividends for shareholders\n    The average pay for a water company CEO is £1.7 million a year. The biggest earner is Steve Mogford, CEO of United Utilities, on £2.9 million\n    Our bills have gone up by 40% in real terms since privatisation\n    Water companies are leaking away 2.4 billion litres of water a day (up to a quarter of their supply)\n    The Environment Agency has said that by 2050 some rivers will see 50-80% less water during the summer months – so water is a precious resource we need to conserve\n    Every day, the water companies discharge raw sewage into our rivers and seas more than 1000 times on average - over 9 million hours since 2016\n    Only 14 percent of English rivers are considered to have good ecological status\n    In Scotland, water is in public ownership. Bills are lower and rivers and seas are cleaner\n    Publicly owned Scottish Water has spent £72 more per household per year (35% more) than the English water companies. If England had invested at this rate, an extra £28 billion would have gone into the infrastructure to tackle problems like leaks and sewage\n    In France, a number of cities have brought water back into public ownership. They didn’t sell off the assets like England did which means they can just wait until contracts come to an end\n    In Paris water came back into public ownership in 2011. The publicly owned company L’Eau de Paris has built still and sparkling water fountains throughout the city!\n    69% of the British public want water back in public hands\n    70% of Red Wall voters want water in public ownership\n\nPhoto credit: Fraz Ismat\n            ])\n        ]),\n        row([ \n            cell([\n                span(\"How much investment (per year):\" )\n                slider(0.0:50_000_000.0:20_000_000_000.0,:target)\n            ]),\n            cell([\n                p( )\n            ]),\n        ]),\n        row([\n            cell([\n                p(\"Target to be raised: <b>£{{targetmn}}mn</b> p.a. Average bill change <b>{{billchange.toFixed(1)}}%</b>\")\n            ]),\n            cell([\n                p(\"\")\n            ])\n        ]),\n        row([\n            cell([\n                plot(:decbar; title=\"Things\")\n            ]),\n            cell([\n                p(\"\")\n            ])\n        ]),\n\n        row([\n            cell([\n                GenieFramework.table(:deciles; title=\"By Decile\", pagination=:data_pagination)\n            ])\n            cell([\n                GenieFramework.table(:tenures; title=\"By Tenure\", pagination=:data_pagination)\n            ])\n            cell([\n                GenieFramework.table(:regions; title=\"By Region\", pagination=:data_pagination)\n            ])\n            cell([\n                GenieFramework.table(:children; title=\"By Children\", pagination=:data_pagination)\n            ])\n        ])\n    ]\nend\n\n\n@page( \"/\", ui )\n\nend # module", 0, "/home/graham_s/julia/vw/WaterGiniF/app.jl", 1, [1, 12, 13, 34, 51, 72, 89, 106, 123, 124, 136, 137, 217, 218, 249, 293, 330, 356, 405, 493, 522, 571, 659, 660, 709, 797, 849, 939, 944, 959, 973, 1004, 1062, 1125, 1193, 1197, 1198, 1234, 1235, 1267, 1287, 1291, 1292, 1303, 1304, 1325, 1330, 1367, 1368, 1448, 1496, 1544, 1594, 1680, 1706, 1730, 1731, 1758, 1795, 1832, 1884, 1959, 2034, 2113, 2188, 2216, 2286, 2295, 2296, 2300, 2301, 2315, 2321, 2335, 2354, 2392, 2408, 2427, 2465, 2466, 2555, 2556, 2618, 2690, 2798, 2799, 2864, 2865, 2968, 2978, 2979, 3081, 3208, 3356, 3424, 3529, 3698, 3845, 3929, 4024, 4287, 4481, 4652, 4714, 4772, 4773, 4798, 4813, 4825, 4840, 4859, 4916, 4982, 4998, 5017, 5038, 5054, 5066, 5080, 5099, 5224, 5240, 5259, 5281, 5296, 5308, 5322, 5341, 5387, 5403, 5422, 5444, 5459, 5471, 5472, 5486, 5505, 5600, 5615, 5634, 5729, 5744, 5763, 5858, 5873, 5892, 5990, 6005, 6016, 6022, 6026, 6027, 6028, 6045, 6046, 6058]), Base.JuliaSyntax.Diagnostic[Base.JuliaSyntax.Diagnostic(2463, 2462, :error, "space required before `?` operator"), Base.JuliaSyntax.Diagnostic(2469, 2468, :error, "`:` expected in `?` expression"), Base.JuliaSyntax.Diagnostic(2540, 2540, :error, "unexpected comma in array expression"), Base.JuliaSyntax.Diagnostic(2554, 2555, :error, "line break after `:` in range expression"), Base.JuliaSyntax.Diagnostic(2554, 2553, :error, "invalid iteration spec: expected one of `=` `in` or `∈`"), Base.JuliaSyntax.Diagnostic(2556, 2558, :error, "unknown unicode character '•'"), Base.JuliaSyntax.Diagnostic(2563, 2861, :error, "Expected `end`"), Base.JuliaSyntax.Diagnostic(2618, 2620, :error, "unknown unicode character '•'"), Base.JuliaSyntax.Diagnostic(2690, 2692, :error, "unknown unicode character '•'"), Base.JuliaSyntax.Diagnostic(2862, 2861, :error, "Expected `]`"), Base.JuliaSyntax.Diagnostic(2865, 3526, :error, "Expected `]`"), Base.JuliaSyntax.Diagnostic(3642, 3644, :error, "unknown unicode character '–'"), Base.JuliaSyntax.Diagnostic(3711, 3711, :error, "unexpected comma in array expression"), Base.JuliaSyntax.Diagnostic(3944, 3944, :error, "unexpected comma in array expression"), Base.JuliaSyntax.Diagnostic(4182, 4182, :error, "unexpected comma in array expression"), Base.JuliaSyntax.Diagnostic(4300, 4300, :error, "unexpected comma in array expression"), Base.JuliaSyntax.Diagnostic(4377, 4379, :error, "unknown unicode character '’'"), Base.JuliaSyntax.Diagnostic(4477, 4476, :error, "Expected `]`"), Base.JuliaSyntax.Diagnostic(4488, 4809, :error, "Expected `end`"), Base.JuliaSyntax.Diagnostic(4569, 4571, :error, "unknown unicode character '’'"), Base.JuliaSyntax.Diagnostic(4810, 4811, :error, "extra tokens after end of expression"), Base.JuliaSyntax.Diagnostic(4821, 4821, :error, "unexpected `]`"), Base.JuliaSyntax.Diagnostic(4821, 4823, :error, "extra tokens after end of expression"), Base.JuliaSyntax.Diagnostic(6020, 6020, :error, "unexpected `]`"), Base.JuliaSyntax.Diagnostic(6020, 6020, :error, "extra tokens after end of expression"), Base.JuliaSyntax.Diagnostic(6022, 6024, :error, "invalid identifier"), Base.JuliaSyntax.Diagnostic(6046, 6048, :error, "invalid identifier")], :none))), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007f52e3986b42])
+└ @ Revise /home/graham_s/.julia/packages/Revise/sCmwS/src/packagedef.jl:724
+┌ Error: 2023-12-29 20:38:41 Failed to revise /home/graham_s/julia/vw/WaterGiniF/app.jl
+│   exception = (LoadError("/home/graham_s/julia/vw/WaterGiniF/app.jl", 154, Base.Meta.ParseError("ParseError:\n# Error @ /home/graham_s/julia/vw/WaterGiniF/app.jl:156:13\n\nend # module\n#           └ ── unterminated string literal", Base.JuliaSyntax.ParseError(Base.JuliaSyntax.SourceFile("module App\n\nusing GenieFramework\nusing Main.Maths\nusing Main.WaterSims\nusing PlotlyBase\nusing Formatting\nusing DataFrames\n\n@genietools\n\nsettings = WaterSims.initialise(reset=true) # WaterSims.make_default_settings()\n\nfunction make_base_run(target)\n    out = WaterSims.run( settings, target )\n    println( \"settings=\$(settings)\")\n    println( out[1:10,:])\n    deciles = WaterSims.tabulate( out, :decile )\n    deciles.average_change_pw = Formatting.format.(deciles.average_change, precision=2)\n    println( names(deciles))\n    tenures = WaterSims.tabulate( out, :tenure )\n    tenures.average_change_pw = Formatting.format.(tenures.average_change, precision=2)\n\n    regions = WaterSims.tabulate( out, :region )\n    regions.average_change_pw = Formatting.format.(regions.average_change, precision=2)\n    children = WaterSims.tabulate( out, :children )\n    children.average_change_pw = Formatting.format.(children.average_change, precision=2)\n    \n    decbar = [\n        bar( \n            x=deciles.decile, \n            y=deciles.average_change, name=\"By Decile\" )]\n    base_revenues = WEEKS_PER_YEAR*sum( out.weighted_water_1 )\n    (; deciles, tenures, regions, base_revenues, children, decbar )\nend\n\nconst BASE_RUN = make_base_run(1.0)\n\nfunction getbase(which::Symbol)\n    BASE_RUN[which]\nend\n\n@app begin\n\n    @in target = 0.0\n    \n    @out decbar = getbase( :decbar )\n\n    @out deciles = DataTable(getbase(:deciles)[:,[:decile,:average_change_pw]])\n    @out tenures = DataTable(getbase(:tenures))\n    @out regions = DataTable(getbase(:regions))\n    @out children = DataTable(getbase(:children))\n    @out data_pagination::DataTablePagination = DataTablePagination(rows_per_page=50)\n    @out billchange = 0.0\n    @out targetmn = \"0\"\n\n    @onchange target begin\n        br = getbase(:base_revenues)\n        billchange = 100.0*target/br\n        out = make_base_run( 1+(billchange/100.0) )\n        deciles = DataTable( out.deciles )[:,[:decile,:average_change_pw]]\n        tenures = DataTable( out.tenures )[:,[:tenure,:average_change_pw]]\n        children = DataTable( out.children )[:,[:children,:average_change_pw]]\n        regions = DataTable( out.regions )[:,[:region,:average_change_pw]]\n        decbar = out.decbar\n        targetmn = Formatting.format( target/1_000_000, commas=true )\n    end \n\nend\n\nfunction ui()\n    [\n        row([\n            cell([\n                h1(\"Your Water Bill\")\n            ]),\n            cell([\n                p(\"\"\" \n                Who owns our water?\n\nThe English water companies are more than 70% owned by shareholders abroad, for example:\n<ul>\n    <li>Wessex Water is 100% owned by a Malaysian company, YTL\n•    Northumbrian Water is owned by Hong Kong businessman Li Ka Shing\n•    Thames Water is partly owned by investors from the United Arab Emirates, Kuwait, China and Australia\n\nRead more about water company ownership in England (see table 1)\n\nWelsh Water is a not for profit. Scottish Water and Northern Irish Water are both in public ownership.\nKey facts\n\n    Since privatisation, £72 billion has gone to shareholders - around £2 billion a year on average\n    The water companies have built up a debt mountain of over £60 billion and used this to finance dividends for shareholders\n    The average pay for a water company CEO is £1.7 million a year. The biggest earner is Steve Mogford, CEO of United Utilities, on £2.9 million\n    Our bills have gone up by 40% in real terms since privatisation\n    Water companies are leaking away 2.4 billion litres of water a day (up to a quarter of their supply)\n    The Environment Agency has said that by 2050 some rivers will see 50-80% less water during the summer months – so water is a precious resource we need to conserve\n    Every day, the water companies discharge raw sewage into our rivers and seas more than 1000 times on average - over 9 million hours since 2016\n    Only 14 percent of English rivers are considered to have good ecological status\n    In Scotland, water is in public ownership. Bills are lower and rivers and seas are cleaner\n    Publicly owned Scottish Water has spent £72 more per household per year (35% more) than the English water companies. If England had invested at this rate, an extra £28 billion would have gone into the infrastructure to tackle problems like leaks and sewage\n    In France, a number of cities have brought water back into public ownership. They didn’t sell off the assets like England did which means they can just wait until contracts come to an end\n    In Paris water came back into public ownership in 2011. The publicly owned company L’Eau de Paris has built still and sparkling water fountains throughout the city!\n    69% of the British public want water back in public hands\n    70% of Red Wall voters want water in public ownership\n\nPhoto credit: Fraz Ismat\n            ])\n        ]),\n        row([ \n            cell([\n                span(\"How much investment (per year):\" )\n                slider(0.0:50_000_000.0:20_000_000_000.0,:target)\n            ]),\n            cell([\n                p( )\n            ]),\n        ]),\n        row([\n            cell([\n                p(\"Target to be raised: <b>£{{targetmn}}mn</b> p.a. Average bill change <b>{{billchange.toFixed(1)}}%</b>\")\n            ]),\n            cell([\n                p(\"\")\n            ])\n        ]),\n        row([\n            cell([\n                plot(:decbar; title=\"Things\")\n            ]),\n            cell([\n                p(\"\")\n            ])\n        ]),\n\n        row([\n            cell([\n                GenieFramework.table(:deciles; title=\"By Decile\", pagination=:data_pagination)\n            ])\n            cell([\n                GenieFramework.table(:tenures; title=\"By Tenure\", pagination=:data_pagination)\n            ])\n            cell([\n                GenieFramework.table(:regions; title=\"By Region\", pagination=:data_pagination)\n            ])\n            cell([\n                GenieFramework.table(:children; title=\"By Children\", pagination=:data_pagination)\n            ])\n        ])\n    ]\nend\n\n\n@page( \"/\", ui )\n\nend # module", 0, "/home/graham_s/julia/vw/WaterGiniF/app.jl", 1, [1, 12, 13, 34, 51, 72, 89, 106, 123, 124, 136, 137, 217, 218, 249, 293, 330, 356, 405, 493, 522, 571, 659, 660, 709, 797, 849, 939, 944, 959, 973, 1004, 1062, 1125, 1193, 1197, 1198, 1234, 1235, 1267, 1287, 1291, 1292, 1303, 1304, 1325, 1330, 1367, 1368, 1448, 1496, 1544, 1594, 1680, 1706, 1730, 1731, 1758, 1795, 1832, 1884, 1959, 2034, 2113, 2188, 2216, 2286, 2295, 2296, 2300, 2301, 2315, 2321, 2335, 2354, 2392, 2408, 2427, 2450, 2486, 2487, 2576, 2581, 2644, 2716, 2824, 2825, 2890, 2891, 2994, 3004, 3005, 3107, 3234, 3382, 3450, 3555, 3724, 3871, 3955, 4050, 4313, 4507, 4678, 4740, 4798, 4799, 4824, 4839, 4851, 4866, 4885, 4942, 5008, 5024, 5043, 5064, 5080, 5092, 5106, 5125, 5250, 5266, 5285, 5307, 5322, 5334, 5348, 5367, 5413, 5429, 5448, 5470, 5485, 5497, 5498, 5512, 5531, 5626, 5641, 5660, 5755, 5770, 5789, 5884, 5899, 5918, 6016, 6031, 6042, 6048, 6052, 6053, 6054, 6071, 6072, 6084]), Base.JuliaSyntax.Diagnostic[Base.JuliaSyntax.Diagnostic(6084, 6083, :error, "unterminated string literal"), Base.JuliaSyntax.Diagnostic(6084, 6083, :error, "Expected `)`"), Base.JuliaSyntax.Diagnostic(6084, 6083, :error, "Expected `]`"), Base.JuliaSyntax.Diagnostic(6084, 6083, :error, "Expected `)`"), Base.JuliaSyntax.Diagnostic(6084, 6083, :error, "Expected `]`"), Base.JuliaSyntax.Diagnostic(6084, 6083, :error, "Expected `)`"), Base.JuliaSyntax.Diagnostic(6084, 6083, :error, "Expected `]`"), Base.JuliaSyntax.Diagnostic(6084, 6083, :error, "Expected `end`"), Base.JuliaSyntax.Diagnostic(6084, 6083, :error, "Expected `end`")], :string))), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007f52e3986b42])
+└ @ Revise /home/graham_s/.julia/packages/Revise/sCmwS/src/packagedef.jl:724
+┌ Error: 2023-12-29 20:39:11 Failed to revise /home/graham_s/julia/vw/WaterGiniF/app.jl
+│   exception = (LoadError("/home/graham_s/julia/vw/WaterGiniF/app.jl", 154, Base.Meta.ParseError("ParseError:\n# Error @ /home/graham_s/julia/vw/WaterGiniF/app.jl:156:13\n\nend # module\n#           └ ── unterminated string literal", Base.JuliaSyntax.ParseError(Base.JuliaSyntax.SourceFile("module App\n\nusing GenieFramework\nusing Main.Maths\nusing Main.WaterSims\nusing PlotlyBase\nusing Formatting\nusing DataFrames\n\n@genietools\n\nsettings = WaterSims.initialise(reset=true) # WaterSims.make_default_settings()\n\nfunction make_base_run(target)\n    out = WaterSims.run( settings, target )\n    println( \"settings=\$(settings)\")\n    println( out[1:10,:])\n    deciles = WaterSims.tabulate( out, :decile )\n    deciles.average_change_pw = Formatting.format.(deciles.average_change, precision=2)\n    println( names(deciles))\n    tenures = WaterSims.tabulate( out, :tenure )\n    tenures.average_change_pw = Formatting.format.(tenures.average_change, precision=2)\n\n    regions = WaterSims.tabulate( out, :region )\n    regions.average_change_pw = Formatting.format.(regions.average_change, precision=2)\n    children = WaterSims.tabulate( out, :children )\n    children.average_change_pw = Formatting.format.(children.average_change, precision=2)\n    \n    decbar = [\n        bar( \n            x=deciles.decile, \n            y=deciles.average_change, name=\"By Decile\" )]\n    base_revenues = WEEKS_PER_YEAR*sum( out.weighted_water_1 )\n    (; deciles, tenures, regions, base_revenues, children, decbar )\nend\n\nconst BASE_RUN = make_base_run(1.0)\n\nfunction getbase(which::Symbol)\n    BASE_RUN[which]\nend\n\n@app begin\n\n    @in target = 0.0\n    \n    @out decbar = getbase( :decbar )\n\n    @out deciles = DataTable(getbase(:deciles)[:,[:decile,:average_change_pw]])\n    @out tenures = DataTable(getbase(:tenures))\n    @out regions = DataTable(getbase(:regions))\n    @out children = DataTable(getbase(:children))\n    @out data_pagination::DataTablePagination = DataTablePagination(rows_per_page=50)\n    @out billchange = 0.0\n    @out targetmn = \"0\"\n\n    @onchange target begin\n        br = getbase(:base_revenues)\n        billchange = 100.0*target/br\n        out = make_base_run( 1+(billchange/100.0) )\n        deciles = DataTable( out.deciles )[:,[:decile,:average_change_pw]]\n        tenures = DataTable( out.tenures )[:,[:tenure,:average_change_pw]]\n        children = DataTable( out.children )[:,[:children,:average_change_pw]]\n        regions = DataTable( out.regions )[:,[:region,:average_change_pw]]\n        decbar = out.decbar\n        targetmn = Formatting.format( target/1_000_000, commas=true )\n    end \n\nend\n\nfunction ui()\n    [\n        row([\n            cell([\n                h1(\"Your Water Bill\")\n            ]),\n            cell([\n                p(\"\"\" \n                Who owns our water?\n\nThe English water companies are more than 70% owned by shareholders abroad, for example:\n<ul>\n    <li>Wessex Water is 100% owned by a Malaysian company, YTL</li>\n    <li>Northumbrian Water is owned by Hong Kong businessman Li Ka Shing</li>\n    <li>Thames Water is partly owned by investors from the United Arab Emirates, Kuwait, China and Australia</li>\n\nRead more about water company ownership in England (see table 1)\n\nWelsh Water is a not for profit. Scottish Water and Northern Irish Water are both in public ownership.\nKey facts\n\n    Since privatisation, £72 billion has gone to shareholders - around £2 billion a year on average\n    The water companies have built up a debt mountain of over £60 billion and used this to finance dividends for shareholders\n    The average pay for a water company CEO is £1.7 million a year. The biggest earner is Steve Mogford, CEO of United Utilities, on £2.9 million\n    Our bills have gone up by 40% in real terms since privatisation\n    Water companies are leaking away 2.4 billion litres of water a day (up to a quarter of their supply)\n    The Environment Agency has said that by 2050 some rivers will see 50-80% less water during the summer months – so water is a precious resource we need to conserve\n    Every day, the water companies discharge raw sewage into our rivers and seas more than 1000 times on average - over 9 million hours since 2016\n    Only 14 percent of English rivers are considered to have good ecological status\n    In Scotland, water is in public ownership. Bills are lower and rivers and seas are cleaner\n    Publicly owned Scottish Water has spent £72 more per household per year (35% more) than the English water companies. If England had invested at this rate, an extra £28 billion would have gone into the infrastructure to tackle problems like leaks and sewage\n    In France, a number of cities have brought water back into public ownership. They didn’t sell off the assets like England did which means they can just wait until contracts come to an end\n    In Paris water came back into public ownership in 2011. The publicly owned company L’Eau de Paris has built still and sparkling water fountains throughout the city!\n    69% of the British public want water back in public hands\n    70% of Red Wall voters want water in public ownership\n\nPhoto credit: Fraz Ismat\n            ])\n        ]),\n        row([ \n            cell([\n                span(\"How much investment (per year):\" )\n                slider(0.0:50_000_000.0:20_000_000_000.0,:target)\n            ]),\n            cell([\n                p( )\n            ]),\n        ]),\n        row([\n            cell([\n                p(\"Target to be raised: <b>£{{targetmn}}mn</b> p.a. Average bill change <b>{{billchange.toFixed(1)}}%</b>\")\n            ]),\n            cell([\n                p(\"\")\n            ])\n        ]),\n        row([\n            cell([\n                plot(:decbar; title=\"Things\")\n            ]),\n            cell([\n                p(\"\")\n            ])\n        ]),\n\n        row([\n            cell([\n                GenieFramework.table(:deciles; title=\"By Decile\", pagination=:data_pagination)\n            ])\n            cell([\n                GenieFramework.table(:tenures; title=\"By Tenure\", pagination=:data_pagination)\n            ])\n            cell([\n                GenieFramework.table(:regions; title=\"By Region\", pagination=:data_pagination)\n            ])\n            cell([\n                GenieFramework.table(:children; title=\"By Children\", pagination=:data_pagination)\n            ])\n        ])\n    ]\nend\n\n\n@page( \"/\", ui )\n\nend # module", 0, "/home/graham_s/julia/vw/WaterGiniF/app.jl", 1, [1, 12, 13, 34, 51, 72, 89, 106, 123, 124, 136, 137, 217, 218, 249, 293, 330, 356, 405, 493, 522, 571, 659, 660, 709, 797, 849, 939, 944, 959, 973, 1004, 1062, 1125, 1193, 1197, 1198, 1234, 1235, 1267, 1287, 1291, 1292, 1303, 1304, 1325, 1330, 1367, 1368, 1448, 1496, 1544, 1594, 1680, 1706, 1730, 1731, 1758, 1795, 1832, 1884, 1959, 2034, 2113, 2188, 2216, 2286, 2295, 2296, 2300, 2301, 2315, 2321, 2335, 2354, 2392, 2408, 2427, 2450, 2486, 2487, 2576, 2581, 2649, 2727, 2841, 2842, 2907, 2908, 3011, 3021, 3022, 3124, 3251, 3399, 3467, 3572, 3741, 3888, 3972, 4067, 4330, 4524, 4695, 4757, 4815, 4816, 4841, 4856, 4868, 4883, 4902, 4959, 5025, 5041, 5060, 5081, 5097, 5109, 5123, 5142, 5267, 5283, 5302, 5324, 5339, 5351, 5365, 5384, 5430, 5446, 5465, 5487, 5502, 5514, 5515, 5529, 5548, 5643, 5658, 5677, 5772, 5787, 5806, 5901, 5916, 5935, 6033, 6048, 6059, 6065, 6069, 6070, 6071, 6088, 6089, 6101]), Base.JuliaSyntax.Diagnostic[Base.JuliaSyntax.Diagnostic(6101, 6100, :error, "unterminated string literal"), Base.JuliaSyntax.Diagnostic(6101, 6100, :error, "Expected `)`"), Base.JuliaSyntax.Diagnostic(6101, 6100, :error, "Expected `]`"), Base.JuliaSyntax.Diagnostic(6101, 6100, :error, "Expected `)`"), Base.JuliaSyntax.Diagnostic(6101, 6100, :error, "Expected `]`"), Base.JuliaSyntax.Diagnostic(6101, 6100, :error, "Expected `)`"), Base.JuliaSyntax.Diagnostic(6101, 6100, :error, "Expected `]`"), Base.JuliaSyntax.Diagnostic(6101, 6100, :error, "Expected `end`"), Base.JuliaSyntax.Diagnostic(6101, 6100, :error, "Expected `end`")], :string))), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007f52e3986b42])
+└ @ Revise /home/graham_s/.julia/packages/Revise/sCmwS/src/packagedef.jl:724
+┌ Error: 2023-12-29 20:39:13 Failed to revise /home/graham_s/julia/vw/WaterGiniF/app.jl
+│   exception = (LoadError("/home/graham_s/julia/vw/WaterGiniF/app.jl", 154, Base.Meta.ParseError("ParseError:\n# Error @ /home/graham_s/julia/vw/WaterGiniF/app.jl:156:13\n\nend # module\n#           └ ── unterminated string literal", Base.JuliaSyntax.ParseError(Base.JuliaSyntax.SourceFile("module App\n\nusing GenieFramework\nusing Main.Maths\nusing Main.WaterSims\nusing PlotlyBase\nusing Formatting\nusing DataFrames\n\n@genietools\n\nsettings = WaterSims.initialise(reset=true) # WaterSims.make_default_settings()\n\nfunction make_base_run(target)\n    out = WaterSims.run( settings, target )\n    println( \"settings=\$(settings)\")\n    println( out[1:10,:])\n    deciles = WaterSims.tabulate( out, :decile )\n    deciles.average_change_pw = Formatting.format.(deciles.average_change, precision=2)\n    println( names(deciles))\n    tenures = WaterSims.tabulate( out, :tenure )\n    tenures.average_change_pw = Formatting.format.(tenures.average_change, precision=2)\n\n    regions = WaterSims.tabulate( out, :region )\n    regions.average_change_pw = Formatting.format.(regions.average_change, precision=2)\n    children = WaterSims.tabulate( out, :children )\n    children.average_change_pw = Formatting.format.(children.average_change, precision=2)\n    \n    decbar = [\n        bar( \n            x=deciles.decile, \n            y=deciles.average_change, name=\"By Decile\" )]\n    base_revenues = WEEKS_PER_YEAR*sum( out.weighted_water_1 )\n    (; deciles, tenures, regions, base_revenues, children, decbar )\nend\n\nconst BASE_RUN = make_base_run(1.0)\n\nfunction getbase(which::Symbol)\n    BASE_RUN[which]\nend\n\n@app begin\n\n    @in target = 0.0\n    \n    @out decbar = getbase( :decbar )\n\n    @out deciles = DataTable(getbase(:deciles)[:,[:decile,:average_change_pw]])\n    @out tenures = DataTable(getbase(:tenures))\n    @out regions = DataTable(getbase(:regions))\n    @out children = DataTable(getbase(:children))\n    @out data_pagination::DataTablePagination = DataTablePagination(rows_per_page=50)\n    @out billchange = 0.0\n    @out targetmn = \"0\"\n\n    @onchange target begin\n        br = getbase(:base_revenues)\n        billchange = 100.0*target/br\n        out = make_base_run( 1+(billchange/100.0) )\n        deciles = DataTable( out.deciles )[:,[:decile,:average_change_pw]]\n        tenures = DataTable( out.tenures )[:,[:tenure,:average_change_pw]]\n        children = DataTable( out.children )[:,[:children,:average_change_pw]]\n        regions = DataTable( out.regions )[:,[:region,:average_change_pw]]\n        decbar = out.decbar\n        targetmn = Formatting.format( target/1_000_000, commas=true )\n    end \n\nend\n\nfunction ui()\n    [\n        row([\n            cell([\n                h1(\"Your Water Bill\")\n            ]),\n            cell([\n                p(\"\"\" \n                Who owns our water?\n\nThe English water companies are more than 70% owned by shareholders abroad, for example:\n<ul>\n    <li>Wessex Water is 100% owned by a Malaysian company, YTL</li>\n    <li>Northumbrian Water is owned by Hong Kong businessman Li Ka Shing</li>\n    <li>Thames Water is partly owned by investors from the United Arab Emirates, Kuwait, China and Australia</li>\n</ul>\nRead more about water company ownership in England (see table 1)\n\nWelsh Water is a not for profit. Scottish Water and Northern Irish Water are both in public ownership.\nKey facts\n\n    Since privatisation, £72 billion has gone to shareholders - around £2 billion a year on average\n    The water companies have built up a debt mountain of over £60 billion and used this to finance dividends for shareholders\n    The average pay for a water company CEO is £1.7 million a year. The biggest earner is Steve Mogford, CEO of United Utilities, on £2.9 million\n    Our bills have gone up by 40% in real terms since privatisation\n    Water companies are leaking away 2.4 billion litres of water a day (up to a quarter of their supply)\n    The Environment Agency has said that by 2050 some rivers will see 50-80% less water during the summer months – so water is a precious resource we need to conserve\n    Every day, the water companies discharge raw sewage into our rivers and seas more than 1000 times on average - over 9 million hours since 2016\n    Only 14 percent of English rivers are considered to have good ecological status\n    In Scotland, water is in public ownership. Bills are lower and rivers and seas are cleaner\n    Publicly owned Scottish Water has spent £72 more per household per year (35% more) than the English water companies. If England had invested at this rate, an extra £28 billion would have gone into the infrastructure to tackle problems like leaks and sewage\n    In France, a number of cities have brought water back into public ownership. They didn’t sell off the assets like England did which means they can just wait until contracts come to an end\n    In Paris water came back into public ownership in 2011. The publicly owned company L’Eau de Paris has built still and sparkling water fountains throughout the city!\n    69% of the British public want water back in public hands\n    70% of Red Wall voters want water in public ownership\n\nPhoto credit: Fraz Ismat\n            ])\n        ]),\n        row([ \n            cell([\n                span(\"How much investment (per year):\" )\n                slider(0.0:50_000_000.0:20_000_000_000.0,:target)\n            ]),\n            cell([\n                p( )\n            ]),\n        ]),\n        row([\n            cell([\n                p(\"Target to be raised: <b>£{{targetmn}}mn</b> p.a. Average bill change <b>{{billchange.toFixed(1)}}%</b>\")\n            ]),\n            cell([\n                p(\"\")\n            ])\n        ]),\n        row([\n            cell([\n                plot(:decbar; title=\"Things\")\n            ]),\n            cell([\n                p(\"\")\n            ])\n        ]),\n\n        row([\n            cell([\n                GenieFramework.table(:deciles; title=\"By Decile\", pagination=:data_pagination)\n            ])\n            cell([\n                GenieFramework.table(:tenures; title=\"By Tenure\", pagination=:data_pagination)\n            ])\n            cell([\n                GenieFramework.table(:regions; title=\"By Region\", pagination=:data_pagination)\n            ])\n            cell([\n                GenieFramework.table(:children; title=\"By Children\", pagination=:data_pagination)\n            ])\n        ])\n    ]\nend\n\n\n@page( \"/\", ui )\n\nend # module", 0, "/home/graham_s/julia/vw/WaterGiniF/app.jl", 1, [1, 12, 13, 34, 51, 72, 89, 106, 123, 124, 136, 137, 217, 218, 249, 293, 330, 356, 405, 493, 522, 571, 659, 660, 709, 797, 849, 939, 944, 959, 973, 1004, 1062, 1125, 1193, 1197, 1198, 1234, 1235, 1267, 1287, 1291, 1292, 1303, 1304, 1325, 1330, 1367, 1368, 1448, 1496, 1544, 1594, 1680, 1706, 1730, 1731, 1758, 1795, 1832, 1884, 1959, 2034, 2113, 2188, 2216, 2286, 2295, 2296, 2300, 2301, 2315, 2321, 2335, 2354, 2392, 2408, 2427, 2450, 2486, 2487, 2576, 2581, 2649, 2727, 2841, 2847, 2912, 2913, 3016, 3026, 3027, 3129, 3256, 3404, 3472, 3577, 3746, 3893, 3977, 4072, 4335, 4529, 4700, 4762, 4820, 4821, 4846, 4861, 4873, 4888, 4907, 4964, 5030, 5046, 5065, 5086, 5102, 5114, 5128, 5147, 5272, 5288, 5307, 5329, 5344, 5356, 5370, 5389, 5435, 5451, 5470, 5492, 5507, 5519, 5520, 5534, 5553, 5648, 5663, 5682, 5777, 5792, 5811, 5906, 5921, 5940, 6038, 6053, 6064, 6070, 6074, 6075, 6076, 6093, 6094, 6106]), Base.JuliaSyntax.Diagnostic[Base.JuliaSyntax.Diagnostic(6106, 6105, :error, "unterminated string literal"), Base.JuliaSyntax.Diagnostic(6106, 6105, :error, "Expected `)`"), Base.JuliaSyntax.Diagnostic(6106, 6105, :error, "Expected `]`"), Base.JuliaSyntax.Diagnostic(6106, 6105, :error, "Expected `)`"), Base.JuliaSyntax.Diagnostic(6106, 6105, :error, "Expected `]`"), Base.JuliaSyntax.Diagnostic(6106, 6105, :error, "Expected `)`"), Base.JuliaSyntax.Diagnostic(6106, 6105, :error, "Expected `]`"), Base.JuliaSyntax.Diagnostic(6106, 6105, :error, "Expected `end`"), Base.JuliaSyntax.Diagnostic(6106, 6105, :error, "Expected `end`")], :string))), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007f52e3986b42])
+└ @ Revise /home/graham_s/.julia/packages/Revise/sCmwS/src/packagedef.jl:724
+┌ Error: 2023-12-29 20:39:41 Failed to revise /home/graham_s/julia/vw/WaterGiniF/app.jl
+│   exception = (LoadError("/home/graham_s/julia/vw/WaterGiniF/app.jl", 154, Base.Meta.ParseError("ParseError:\n# Error @ /home/graham_s/julia/vw/WaterGiniF/app.jl:108:13\n        \"\"\"\n            ])\n#           └ ── Expected `)`", Base.JuliaSyntax.ParseError(Base.JuliaSyntax.SourceFile("module App\n\nusing GenieFramework\nusing Main.Maths\nusing Main.WaterSims\nusing PlotlyBase\nusing Formatting\nusing DataFrames\n\n@genietools\n\nsettings = WaterSims.initialise(reset=true) # WaterSims.make_default_settings()\n\nfunction make_base_run(target)\n    out = WaterSims.run( settings, target )\n    println( \"settings=\$(settings)\")\n    println( out[1:10,:])\n    deciles = WaterSims.tabulate( out, :decile )\n    deciles.average_change_pw = Formatting.format.(deciles.average_change, precision=2)\n    println( names(deciles))\n    tenures = WaterSims.tabulate( out, :tenure )\n    tenures.average_change_pw = Formatting.format.(tenures.average_change, precision=2)\n\n    regions = WaterSims.tabulate( out, :region )\n    regions.average_change_pw = Formatting.format.(regions.average_change, precision=2)\n    children = WaterSims.tabulate( out, :children )\n    children.average_change_pw = Formatting.format.(children.average_change, precision=2)\n    \n    decbar = [\n        bar( \n            x=deciles.decile, \n            y=deciles.average_change, name=\"By Decile\" )]\n    base_revenues = WEEKS_PER_YEAR*sum( out.weighted_water_1 )\n    (; deciles, tenures, regions, base_revenues, children, decbar )\nend\n\nconst BASE_RUN = make_base_run(1.0)\n\nfunction getbase(which::Symbol)\n    BASE_RUN[which]\nend\n\n@app begin\n\n    @in target = 0.0\n    \n    @out decbar = getbase( :decbar )\n\n    @out deciles = DataTable(getbase(:deciles)[:,[:decile,:average_change_pw]])\n    @out tenures = DataTable(getbase(:tenures))\n    @out regions = DataTable(getbase(:regions))\n    @out children = DataTable(getbase(:children))\n    @out data_pagination::DataTablePagination = DataTablePagination(rows_per_page=50)\n    @out billchange = 0.0\n    @out targetmn = \"0\"\n\n    @onchange target begin\n        br = getbase(:base_revenues)\n        billchange = 100.0*target/br\n        out = make_base_run( 1+(billchange/100.0) )\n        deciles = DataTable( out.deciles )[:,[:decile,:average_change_pw]]\n        tenures = DataTable( out.tenures )[:,[:tenure,:average_change_pw]]\n        children = DataTable( out.children )[:,[:children,:average_change_pw]]\n        regions = DataTable( out.regions )[:,[:region,:average_change_pw]]\n        decbar = out.decbar\n        targetmn = Formatting.format( target/1_000_000, commas=true )\n    end \n\nend\n\nfunction ui()\n    [\n        row([\n            cell([\n                h1(\"Your Water Bill\")\n            ]),\n            cell([\n                p(\"\"\" \n                Who owns our water?\n\nThe English water companies are more than 70% owned by shareholders abroad, for example:\n<ul>\n    <li>Wessex Water is 100% owned by a Malaysian company, YTL</li>\n    <li>Northumbrian Water is owned by Hong Kong businessman Li Ka Shing</li>\n    <li>Thames Water is partly owned by investors from the United Arab Emirates, Kuwait, China and Australia</li>\n</ul>\n\nWelsh Water is a not for profit. Scottish Water and Northern Irish Water are both in public ownership.\n\n    Key facts\n\n    Since privatisation, £72 billion has gone to shareholders - around £2 billion a year on average\n    The water companies have built up a debt mountain of over £60 billion and used this to finance dividends for shareholders\n    The average pay for a water company CEO is £1.7 million a year. The biggest earner is Steve Mogford, CEO of United Utilities, on £2.9 million\n    Our bills have gone up by 40% in real terms since privatisation\n    Water companies are leaking away 2.4 billion litres of water a day (up to a quarter of their supply)\n    The Environment Agency has said that by 2050 some rivers will see 50-80% less water during the summer months – so water is a precious resource we need to conserve\n    Every day, the water companies discharge raw sewage into our rivers and seas more than 1000 times on average - over 9 million hours since 2016\n    Only 14 percent of English rivers are considered to have good ecological status\n    In Scotland, water is in public ownership. Bills are lower and rivers and seas are cleaner\n    Publicly owned Scottish Water has spent £72 more per household per year (35% more) than the English water companies. If England had invested at this rate, an extra £28 billion would have gone into the infrastructure to tackle problems like leaks and sewage\n    In France, a number of cities have brought water back into public ownership. They didn’t sell off the assets like England did which means they can just wait until contracts come to an end\n    In Paris water came back into public ownership in 2011. The publicly owned company L’Eau de Paris has built still and sparkling water fountains throughout the city!\n    69% of the British public want water back in public hands\n    70% of Red Wall voters want water in public ownership\n\n        \"\"\"\n            ])\n        ]),\n        row([ \n            cell([\n                span(\"How much investment (per year):\" )\n                slider(0.0:50_000_000.0:20_000_000_000.0,:target)\n            ]),\n            cell([\n                p( )\n            ]),\n        ]),\n        row([\n            cell([\n                p(\"Target to be raised: <b>£{{targetmn}}mn</b> p.a. Average bill change <b>{{billchange.toFixed(1)}}%</b>\")\n            ]),\n            cell([\n                p(\"\")\n            ])\n        ]),\n        row([\n            cell([\n                plot(:decbar; title=\"Things\")\n            ]),\n            cell([\n                p(\"\")\n            ])\n        ]),\n\n        row([\n            cell([\n                GenieFramework.table(:deciles; title=\"By Decile\", pagination=:data_pagination)\n            ])\n            cell([\n                GenieFramework.table(:tenures; title=\"By Tenure\", pagination=:data_pagination)\n            ])\n            cell([\n                GenieFramework.table(:regions; title=\"By Region\", pagination=:data_pagination)\n            ])\n            cell([\n                GenieFramework.table(:children; title=\"By Children\", pagination=:data_pagination)\n            ])\n        ])\n    ]\nend\n\n\n@page( \"/\", ui )\n\nend # module", 0, "/home/graham_s/julia/vw/WaterGiniF/app.jl", 1, [1, 12, 13, 34, 51, 72, 89, 106, 123, 124, 136, 137, 217, 218, 249, 293, 330, 356, 405, 493, 522, 571, 659, 660, 709, 797, 849, 939, 944, 959, 973, 1004, 1062, 1125, 1193, 1197, 1198, 1234, 1235, 1267, 1287, 1291, 1292, 1303, 1304, 1325, 1330, 1367, 1368, 1448, 1496, 1544, 1594, 1680, 1706, 1730, 1731, 1758, 1795, 1832, 1884, 1959, 2034, 2113, 2188, 2216, 2286, 2295, 2296, 2300, 2301, 2315, 2321, 2335, 2354, 2392, 2408, 2427, 2450, 2486, 2487, 2576, 2581, 2649, 2727, 2841, 2847, 2848, 2951, 2952, 2966, 2967, 3069, 3196, 3344, 3412, 3517, 3686, 3833, 3917, 4012, 4275, 4469, 4640, 4702, 4760, 4761, 4773, 4788, 4800, 4815, 4834, 4891, 4957, 4973, 4992, 5013, 5029, 5041, 5055, 5074, 5199, 5215, 5234, 5256, 5271, 5283, 5297, 5316, 5362, 5378, 5397, 5419, 5434, 5446, 5447, 5461, 5480, 5575, 5590, 5609, 5704, 5719, 5738, 5833, 5848, 5867, 5965, 5980, 5991, 5997, 6001, 6002, 6003, 6020, 6021, 6033]), Base.JuliaSyntax.Diagnostic[Base.JuliaSyntax.Diagnostic(4785, 4784, :error, "Expected `)`")], :none))), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007f52e3986b42])
+└ @ Revise /home/graham_s/.julia/packages/Revise/sCmwS/src/packagedef.jl:724
+┌ Error: 2023-12-29 20:52:25 
+│ Error attempting to invoke handler.
+│ 
+│   Handler:
+│   # 1 method for anonymous function "#97":
+│  [1] (::Main.App.var"#97#98")(target)
+│      @ ~/.julia/packages/Stipple/TJzkE/src/ReactiveTools.jl:914
+│   Core.CodeInfo[CodeInfo(
+│ 1 ─       br = Main.App.getbase(:base_revenues)
+│ │   %2  = 100.0 * target
+│ │   %3  = %2 / br
+│ │   %4  = Core.getfield(#self#, :__model__)
+│ │   %5  = Base.getproperty(%4, :billchange)
+│ │         Base.setindex!(%5, %3)
+│ │   %7  = Core.getfield(#self#, :__model__)
+│ │   %8  = Base.getproperty(%7, :billchange)
+│ │   %9  = Base.getindex(%8)
+│ │   %10 = %9 / 100.0
+│ │   %11 = 1 + %10
+│ │         out = Main.App.make_base_run(%11)
+│ │   %13 = Base.getproperty(out, :deciles)
+│ │   %14 = Main.App.DataTable(%13)
+│ │   %15 = Main.App.:(:)
+│ │   %16 = Base.vect(:decile, :average_change_pw)
+│ │   %17 = Base.getindex(%14, %15, %16)
+│ │   %18 = Core.getfield(#self#, :__model__)
+│ │   %19 = Base.getproperty(%18, :deciles)
+│ │         Base.setindex!(%19, %17)
+│ │   %21 = Base.getproperty(out, :tenures)
+│ │   %22 = Main.App.DataTable(%21)
+│ │   %23 = Main.App.:(:)
+│ │   %24 = Base.vect(:tenure, :average_change_pw)
+│ │   %25 = Base.getindex(%22, %23, %24)
+│ │   %26 = Core.getfield(#self#, :__model__)
+│ │   %27 = Base.getproperty(%26, :tenures)
+│ │         Base.setindex!(%27, %25)
+│ │   %29 = Base.getproperty(out, :children)
+│ │   %30 = Main.App.DataTable(%29)
+│ │   %31 = Main.App.:(:)
+│ │   %32 = Base.vect(:children, :average_change_pw)
+│ │   %33 = Base.getindex(%30, %31, %32)
+│ │   %34 = Core.getfield(#self#, :__model__)
+│ │   %35 = Base.getproperty(%34, :children)
+│ │         Base.setindex!(%35, %33)
+│ │   %37 = Base.getproperty(out, :regions)
+│ │   %38 = Main.App.DataTable(%37)
+│ │   %39 = Main.App.:(:)
+│ │   %40 = Base.vect(:region, :average_change_pw)
+│ │   %41 = Base.getindex(%38, %39, %40)
+│ │   %42 = Core.getfield(#self#, :__model__)
+│ │   %43 = Base.getproperty(%42, :regions)
+│ │         Base.setindex!(%43, %41)
+│ │   %45 = Base.getproperty(out, :decbar)
+│ │   %46 = Core.getfield(#self#, :__model__)
+│ │   %47 = Base.getproperty(%46, :decbar)
+│ │         Base.setindex!(%47, %45)
+│ │   %49 = target / 1000000
+│ │   %50 = (:commas,)
+│ │   %51 = Core.apply_type(Core.NamedTuple, %50)
+│ │   %52 = Core.tuple(true)
+│ │   %53 = (%51)(%52)
+│ │   %54 = Formatting.format
+│ │   %55 = Core.kwcall(%53, %54, %49)
+│ │   %56 = Core.getfield(#self#, :__model__)
+│ │   %57 = Base.getproperty(%56, :targetmn)
+│ │         Base.setindex!(%57, %55)
+│ └──       return %55
+│ )]
+│ 
+│   Type of argument:
+│   Float64
+│ 
+│   Value:
+│   5.45e9
+│ 
+│   Exception:
+│   UndefVarError(:Layout)
+│ 
+│   exception = (UndefVarError(:Layout), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007f52e3ec7ad4, Ptr{Nothing} @0x00007f52e3e636c7, Ptr{Nothing} @0x00007f529efb3f4e, Ptr{Nothing} @0x00007f529efb4655, Ptr{Nothing} @0x00007f529efb4c19, Ptr{Nothing} @0x00007f52e3e4699d, Ptr{Nothing} @0x00007f52e3e56f58, Ptr{Nothing} @0x00007f529f390be5, Ptr{Nothing} @0x00007f529f39168a, Ptr{Nothing} @0x00007f529f3916d4, Ptr{Nothing} @0x00007f52e3e4699d, Ptr{Nothing} @0x00007f529ef80e70, Ptr{Nothing} @0x00007f529ef80f69, Ptr{Nothing} @0x00007f52e3e4699d, Ptr{Nothing} @0x00007f529ef741b7, Ptr{Nothing} @0x00007f529ef74482, Ptr{Nothing} @0x00007f52e3e4699d, Ptr{Nothing} @0x00007f529f35c0d4, Ptr{Nothing} @0x00007f529f35c51b, Ptr{Nothing} @0x00007f529f35c58a, Ptr{Nothing} @0x00007f529f35c5c9, Ptr{Nothing} @0x00007f52e3e4699d, Ptr{Nothing} @0x00007f529f33b95d, Ptr{Nothing} @0x00007f529f33b9b2, Ptr{Nothing} @0x00007f52e3e4699d, Ptr{Nothing} @0x00007f52e3e56f58, Ptr{Nothing} @0x00007f529fd45d13, Ptr{Nothing} @0x00007f529fd46112, Ptr{Nothing} @0x00007f529fd4c07f, Ptr{Nothing} @0x00007f529fd53704, Ptr{Nothing} @0x00007f529fd53855, Ptr{Nothing} @0x00007f52e3e4699d, Ptr{Nothing} @0x00007f52e3e56f58, Ptr{Nothing} @0x00007f529fd40b0b, Ptr{Nothing} @0x00007f529fd43636, Ptr{Nothing} @0x00007f529fd43722, Ptr{Nothing} @0x00007f52e3e4699d, Ptr{Nothing} @0x00007f52e3e69d5f])
+└ @ Stipple /home/graham_s/.julia/packages/Stipple/TJzkE/src/stipple/mutators.jl:54
+┌ Error: 2023-12-29 20:52:26 
+│ Error attempting to invoke handler.
+│ 
+│   Handler:
+│   # 1 method for anonymous function "#97":
+│  [1] (::Main.App.var"#97#98")(target)
+│      @ ~/.julia/packages/Stipple/TJzkE/src/ReactiveTools.jl:914
+│   Core.CodeInfo[CodeInfo(
+│ 1 ─       br = Main.App.getbase(:base_revenues)
+│ │   %2  = 100.0 * target
+│ │   %3  = %2 / br
+│ │   %4  = Core.getfield(#self#, :__model__)
+│ │   %5  = Base.getproperty(%4, :billchange)
+│ │         Base.setindex!(%5, %3)
+│ │   %7  = Core.getfield(#self#, :__model__)
+│ │   %8  = Base.getproperty(%7, :billchange)
+│ │   %9  = Base.getindex(%8)
+│ │   %10 = %9 / 100.0
+│ │   %11 = 1 + %10
+│ │         out = Main.App.make_base_run(%11)
+│ │   %13 = Base.getproperty(out, :deciles)
+│ │   %14 = Main.App.DataTable(%13)
+│ │   %15 = Main.App.:(:)
+│ │   %16 = Base.vect(:decile, :average_change_pw)
+│ │   %17 = Base.getindex(%14, %15, %16)
+│ │   %18 = Core.getfield(#self#, :__model__)
+│ │   %19 = Base.getproperty(%18, :deciles)
+│ │         Base.setindex!(%19, %17)
+│ │   %21 = Base.getproperty(out, :tenures)
+│ │   %22 = Main.App.DataTable(%21)
+│ │   %23 = Main.App.:(:)
+│ │   %24 = Base.vect(:tenure, :average_change_pw)
+│ │   %25 = Base.getindex(%22, %23, %24)
+│ │   %26 = Core.getfield(#self#, :__model__)
+│ │   %27 = Base.getproperty(%26, :tenures)
+│ │         Base.setindex!(%27, %25)
+│ │   %29 = Base.getproperty(out, :children)
+│ │   %30 = Main.App.DataTable(%29)
+│ │   %31 = Main.App.:(:)
+│ │   %32 = Base.vect(:children, :average_change_pw)
+│ │   %33 = Base.getindex(%30, %31, %32)
+│ │   %34 = Core.getfield(#self#, :__model__)
+│ │   %35 = Base.getproperty(%34, :children)
+│ │         Base.setindex!(%35, %33)
+│ │   %37 = Base.getproperty(out, :regions)
+│ │   %38 = Main.App.DataTable(%37)
+│ │   %39 = Main.App.:(:)
+│ │   %40 = Base.vect(:region, :average_change_pw)
+│ │   %41 = Base.getindex(%38, %39, %40)
+│ │   %42 = Core.getfield(#self#, :__model__)
+│ │   %43 = Base.getproperty(%42, :regions)
+│ │         Base.setindex!(%43, %41)
+│ │   %45 = Base.getproperty(out, :decbar)
+│ │   %46 = Core.getfield(#self#, :__model__)
+│ │   %47 = Base.getproperty(%46, :decbar)
+│ │         Base.setindex!(%47, %45)
+│ │   %49 = target / 1000000
+│ │   %50 = (:commas,)
+│ │   %51 = Core.apply_type(Core.NamedTuple, %50)
+│ │   %52 = Core.tuple(true)
+│ │   %53 = (%51)(%52)
+│ │   %54 = Formatting.format
+│ │   %55 = Core.kwcall(%53, %54, %49)
+│ │   %56 = Core.getfield(#self#, :__model__)
+│ │   %57 = Base.getproperty(%56, :targetmn)
+│ │         Base.setindex!(%57, %55)
+│ └──       return %55
+│ )]
+│ 
+│   Type of argument:
+│   Float64
+│ 
+│   Value:
+│   7.15e9
+│ 
+│   Exception:
+│   UndefVarError(:Layout)
+│ 
+│   exception = (UndefVarError(:Layout), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007f52e3ec7ad4, Ptr{Nothing} @0x00007f52e3e636c7, Ptr{Nothing} @0x00007f529efb3f4e, Ptr{Nothing} @0x00007f529efb4655, Ptr{Nothing} @0x00007f529efb4c19, Ptr{Nothing} @0x00007f52e3e4699d, Ptr{Nothing} @0x00007f52e3e56f58, Ptr{Nothing} @0x00007f529f390be5, Ptr{Nothing} @0x00007f529f39168a, Ptr{Nothing} @0x00007f529f3916d4, Ptr{Nothing} @0x00007f52e3e4699d, Ptr{Nothing} @0x00007f529ef80e70, Ptr{Nothing} @0x00007f529ef80f69, Ptr{Nothing} @0x00007f52e3e4699d, Ptr{Nothing} @0x00007f529ef741b7, Ptr{Nothing} @0x00007f529ef74482, Ptr{Nothing} @0x00007f52e3e4699d, Ptr{Nothing} @0x00007f529f35c0d4, Ptr{Nothing} @0x00007f529f35c51b, Ptr{Nothing} @0x00007f529f35c58a, Ptr{Nothing} @0x00007f529f35c5c9, Ptr{Nothing} @0x00007f52e3e4699d, Ptr{Nothing} @0x00007f529f33b95d, Ptr{Nothing} @0x00007f529f33b9b2, Ptr{Nothing} @0x00007f52e3e4699d, Ptr{Nothing} @0x00007f52e3e56f58, Ptr{Nothing} @0x00007f529fd45d13, Ptr{Nothing} @0x00007f529fd46112, Ptr{Nothing} @0x00007f529fd4c07f, Ptr{Nothing} @0x00007f529fd53704, Ptr{Nothing} @0x00007f529fd53855, Ptr{Nothing} @0x00007f52e3e4699d, Ptr{Nothing} @0x00007f52e3e56f58, Ptr{Nothing} @0x00007f529fd40b0b, Ptr{Nothing} @0x00007f529fd43636, Ptr{Nothing} @0x00007f529fd43722, Ptr{Nothing} @0x00007f52e3e4699d, Ptr{Nothing} @0x00007f52e3e69d5f])
+└ @ Stipple /home/graham_s/.julia/packages/Stipple/TJzkE/src/stipple/mutators.jl:54
+┌ Error: 2023-12-29 20:52:28 
+│ Error attempting to invoke handler.
+│ 
+│   Handler:
+│   # 1 method for anonymous function "#97":
+│  [1] (::Main.App.var"#97#98")(target)
+│      @ ~/.julia/packages/Stipple/TJzkE/src/ReactiveTools.jl:914
+│   Core.CodeInfo[CodeInfo(
+│ 1 ─       br = Main.App.getbase(:base_revenues)
+│ │   %2  = 100.0 * target
+│ │   %3  = %2 / br
+│ │   %4  = Core.getfield(#self#, :__model__)
+│ │   %5  = Base.getproperty(%4, :billchange)
+│ │         Base.setindex!(%5, %3)
+│ │   %7  = Core.getfield(#self#, :__model__)
+│ │   %8  = Base.getproperty(%7, :billchange)
+│ │   %9  = Base.getindex(%8)
+│ │   %10 = %9 / 100.0
+│ │   %11 = 1 + %10
+│ │         out = Main.App.make_base_run(%11)
+│ │   %13 = Base.getproperty(out, :deciles)
+│ │   %14 = Main.App.DataTable(%13)
+│ │   %15 = Main.App.:(:)
+│ │   %16 = Base.vect(:decile, :average_change_pw)
+│ │   %17 = Base.getindex(%14, %15, %16)
+│ │   %18 = Core.getfield(#self#, :__model__)
+│ │   %19 = Base.getproperty(%18, :deciles)
+│ │         Base.setindex!(%19, %17)
+│ │   %21 = Base.getproperty(out, :tenures)
+│ │   %22 = Main.App.DataTable(%21)
+│ │   %23 = Main.App.:(:)
+│ │   %24 = Base.vect(:tenure, :average_change_pw)
+│ │   %25 = Base.getindex(%22, %23, %24)
+│ │   %26 = Core.getfield(#self#, :__model__)
+│ │   %27 = Base.getproperty(%26, :tenures)
+│ │         Base.setindex!(%27, %25)
+│ │   %29 = Base.getproperty(out, :children)
+│ │   %30 = Main.App.DataTable(%29)
+│ │   %31 = Main.App.:(:)
+│ │   %32 = Base.vect(:children, :average_change_pw)
+│ │   %33 = Base.getindex(%30, %31, %32)
+│ │   %34 = Core.getfield(#self#, :__model__)
+│ │   %35 = Base.getproperty(%34, :children)
+│ │         Base.setindex!(%35, %33)
+│ │   %37 = Base.getproperty(out, :regions)
+│ │   %38 = Main.App.DataTable(%37)
+│ │   %39 = Main.App.:(:)
+│ │   %40 = Base.vect(:region, :average_change_pw)
+│ │   %41 = Base.getindex(%38, %39, %40)
+│ │   %42 = Core.getfield(#self#, :__model__)
+│ │   %43 = Base.getproperty(%42, :regions)
+│ │         Base.setindex!(%43, %41)
+│ │   %45 = Base.getproperty(out, :decbar)
+│ │   %46 = Core.getfield(#self#, :__model__)
+│ │   %47 = Base.getproperty(%46, :decbar)
+│ │         Base.setindex!(%47, %45)
+│ │   %49 = target / 1000000
+│ │   %50 = (:commas,)
+│ │   %51 = Core.apply_type(Core.NamedTuple, %50)
+│ │   %52 = Core.tuple(true)
+│ │   %53 = (%51)(%52)
+│ │   %54 = Formatting.format
+│ │   %55 = Core.kwcall(%53, %54, %49)
+│ │   %56 = Core.getfield(#self#, :__model__)
+│ │   %57 = Base.getproperty(%56, :targetmn)
+│ │         Base.setindex!(%57, %55)
+│ └──       return %55
+│ )]
+│ 
+│   Type of argument:
+│   Float64
+│ 
+│   Value:
+│   9.55e9
+│ 
+│   Exception:
+│   UndefVarError(:Layout)
+│ 
+│   exception = (UndefVarError(:Layout), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007f52e3ec7ad4, Ptr{Nothing} @0x00007f52e3e636c7, Ptr{Nothing} @0x00007f529efb3f4e, Ptr{Nothing} @0x00007f529efb4655, Ptr{Nothing} @0x00007f529efb4c19, Ptr{Nothing} @0x00007f52e3e4699d, Ptr{Nothing} @0x00007f52e3e56f58, Ptr{Nothing} @0x00007f529f390be5, Ptr{Nothing} @0x00007f529f39168a, Ptr{Nothing} @0x00007f529f3916d4, Ptr{Nothing} @0x00007f52e3e4699d, Ptr{Nothing} @0x00007f529ef80e70, Ptr{Nothing} @0x00007f529ef80f69, Ptr{Nothing} @0x00007f52e3e4699d, Ptr{Nothing} @0x00007f529ef741b7, Ptr{Nothing} @0x00007f529ef74482, Ptr{Nothing} @0x00007f52e3e4699d, Ptr{Nothing} @0x00007f529f35c0d4, Ptr{Nothing} @0x00007f529f35c51b, Ptr{Nothing} @0x00007f529f35c58a, Ptr{Nothing} @0x00007f529f35c5c9, Ptr{Nothing} @0x00007f52e3e4699d, Ptr{Nothing} @0x00007f529f33b95d, Ptr{Nothing} @0x00007f529f33b9b2, Ptr{Nothing} @0x00007f52e3e4699d, Ptr{Nothing} @0x00007f52e3e56f58, Ptr{Nothing} @0x00007f529fd45d13, Ptr{Nothing} @0x00007f529fd46112, Ptr{Nothing} @0x00007f529fd4c07f, Ptr{Nothing} @0x00007f529fd53704, Ptr{Nothing} @0x00007f529fd53855, Ptr{Nothing} @0x00007f52e3e4699d, Ptr{Nothing} @0x00007f52e3e56f58, Ptr{Nothing} @0x00007f529fd40b0b, Ptr{Nothing} @0x00007f529fd43636, Ptr{Nothing} @0x00007f529fd43722, Ptr{Nothing} @0x00007f52e3e4699d, Ptr{Nothing} @0x00007f52e3e69d5f])
+└ @ Stipple /home/graham_s/.julia/packages/Stipple/TJzkE/src/stipple/mutators.jl:54
+┌ Error: 2023-12-29 20:52:30 
+│ Error attempting to invoke handler.
+│ 
+│   Handler:
+│   # 1 method for anonymous function "#97":
+│  [1] (::Main.App.var"#97#98")(target)
+│      @ ~/.julia/packages/Stipple/TJzkE/src/ReactiveTools.jl:914
+│   Core.CodeInfo[CodeInfo(
+│ 1 ─       br = Main.App.getbase(:base_revenues)
+│ │   %2  = 100.0 * target
+│ │   %3  = %2 / br
+│ │   %4  = Core.getfield(#self#, :__model__)
+│ │   %5  = Base.getproperty(%4, :billchange)
+│ │         Base.setindex!(%5, %3)
+│ │   %7  = Core.getfield(#self#, :__model__)
+│ │   %8  = Base.getproperty(%7, :billchange)
+│ │   %9  = Base.getindex(%8)
+│ │   %10 = %9 / 100.0
+│ │   %11 = 1 + %10
+│ │         out = Main.App.make_base_run(%11)
+│ │   %13 = Base.getproperty(out, :deciles)
+│ │   %14 = Main.App.DataTable(%13)
+│ │   %15 = Main.App.:(:)
+│ │   %16 = Base.vect(:decile, :average_change_pw)
+│ │   %17 = Base.getindex(%14, %15, %16)
+│ │   %18 = Core.getfield(#self#, :__model__)
+│ │   %19 = Base.getproperty(%18, :deciles)
+│ │         Base.setindex!(%19, %17)
+│ │   %21 = Base.getproperty(out, :tenures)
+│ │   %22 = Main.App.DataTable(%21)
+│ │   %23 = Main.App.:(:)
+│ │   %24 = Base.vect(:tenure, :average_change_pw)
+│ │   %25 = Base.getindex(%22, %23, %24)
+│ │   %26 = Core.getfield(#self#, :__model__)
+│ │   %27 = Base.getproperty(%26, :tenures)
+│ │         Base.setindex!(%27, %25)
+│ │   %29 = Base.getproperty(out, :children)
+│ │   %30 = Main.App.DataTable(%29)
+│ │   %31 = Main.App.:(:)
+│ │   %32 = Base.vect(:children, :average_change_pw)
+│ │   %33 = Base.getindex(%30, %31, %32)
+│ │   %34 = Core.getfield(#self#, :__model__)
+│ │   %35 = Base.getproperty(%34, :children)
+│ │         Base.setindex!(%35, %33)
+│ │   %37 = Base.getproperty(out, :regions)
+│ │   %38 = Main.App.DataTable(%37)
+│ │   %39 = Main.App.:(:)
+│ │   %40 = Base.vect(:region, :average_change_pw)
+│ │   %41 = Base.getindex(%38, %39, %40)
+│ │   %42 = Core.getfield(#self#, :__model__)
+│ │   %43 = Base.getproperty(%42, :regions)
+│ │         Base.setindex!(%43, %41)
+│ │   %45 = Base.getproperty(out, :decbar)
+│ │   %46 = Core.getfield(#self#, :__model__)
+│ │   %47 = Base.getproperty(%46, :decbar)
+│ │         Base.setindex!(%47, %45)
+│ │   %49 = target / 1000000
+│ │   %50 = (:commas,)
+│ │   %51 = Core.apply_type(Core.NamedTuple, %50)
+│ │   %52 = Core.tuple(true)
+│ │   %53 = (%51)(%52)
+│ │   %54 = Formatting.format
+│ │   %55 = Core.kwcall(%53, %54, %49)
+│ │   %56 = Core.getfield(#self#, :__model__)
+│ │   %57 = Base.getproperty(%56, :targetmn)
+│ │         Base.setindex!(%57, %55)
+│ └──       return %55
+│ )]
+│ 
+│   Type of argument:
+│   Float64
+│ 
+│   Value:
+│   1.3e10
+│ 
+│   Exception:
+│   UndefVarError(:Layout)
+│ 
+│   exception = (UndefVarError(:Layout), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007f52e3ec7ad4, Ptr{Nothing} @0x00007f52e3e636c7, Ptr{Nothing} @0x00007f529efb3f4e, Ptr{Nothing} @0x00007f529efb4655, Ptr{Nothing} @0x00007f529efb4c19, Ptr{Nothing} @0x00007f52e3e4699d, Ptr{Nothing} @0x00007f52e3e56f58, Ptr{Nothing} @0x00007f529f390be5, Ptr{Nothing} @0x00007f529f39168a, Ptr{Nothing} @0x00007f529f3916d4, Ptr{Nothing} @0x00007f52e3e4699d, Ptr{Nothing} @0x00007f529ef80e70, Ptr{Nothing} @0x00007f529ef80f69, Ptr{Nothing} @0x00007f52e3e4699d, Ptr{Nothing} @0x00007f529ef741b7, Ptr{Nothing} @0x00007f529ef74482, Ptr{Nothing} @0x00007f52e3e4699d, Ptr{Nothing} @0x00007f529f35c0d4, Ptr{Nothing} @0x00007f529f35c51b, Ptr{Nothing} @0x00007f529f35c58a, Ptr{Nothing} @0x00007f529f35c5c9, Ptr{Nothing} @0x00007f52e3e4699d, Ptr{Nothing} @0x00007f529f33b95d, Ptr{Nothing} @0x00007f529f33b9b2, Ptr{Nothing} @0x00007f52e3e4699d, Ptr{Nothing} @0x00007f52e3e56f58, Ptr{Nothing} @0x00007f529fd45d13, Ptr{Nothing} @0x00007f529fd46112, Ptr{Nothing} @0x00007f529fd4c07f, Ptr{Nothing} @0x00007f529fd53704, Ptr{Nothing} @0x00007f529fd53855, Ptr{Nothing} @0x00007f52e3e4699d, Ptr{Nothing} @0x00007f52e3e56f58, Ptr{Nothing} @0x00007f529fd40b0b, Ptr{Nothing} @0x00007f529fd43636, Ptr{Nothing} @0x00007f529fd43722, Ptr{Nothing} @0x00007f52e3e4699d, Ptr{Nothing} @0x00007f52e3e69d5f])
+└ @ Stipple /home/graham_s/.julia/packages/Stipple/TJzkE/src/stipple/mutators.jl:54
+┌ Error: 2023-12-29 20:53:52 Failed to revise /home/graham_s/julia/vw/WaterGiniF/app.jl
+│   exception = Revise.ReviseEvalException("/home/graham_s/.julia/packages/Stipple/TJzkE/src/ReactiveTools.jl:388", UndefVarError(:Layout), Any[(top-level scope at ReactiveTools.jl:388, 1)])
+└ @ Revise /home/graham_s/.julia/packages/Revise/sCmwS/src/packagedef.jl:722
+┌ Warning: 2023-12-29 20:53:53 The running code does not match the saved version for the following files:
+│ 
+│   /home/graham_s/julia/vw/WaterGiniF/app.jl
+│ 
+│ If the error was due to evaluation order, it can sometimes be resolved by calling `Revise.retry()`.
+│ Use Revise.errors() to report errors again. Only the first error in each file is shown.
+│ Your prompt color may be yellow until the errors are resolved.
+└ @ Revise /home/graham_s/.julia/packages/Revise/sCmwS/src/packagedef.jl:832
+┌ Error: 2023-12-29 20:54:22 Failed to revise /home/graham_s/julia/vw/WaterGiniF/app.jl
+│   exception = Revise.ReviseEvalException("/home/graham_s/.julia/packages/Stipple/TJzkE/src/ReactiveTools.jl:388", UndefVarError(:Layout), Any[(top-level scope at ReactiveTools.jl:388, 1)])
+└ @ Revise /home/graham_s/.julia/packages/Revise/sCmwS/src/packagedef.jl:722
+┌ Error: 2023-12-29 20:54:51 Failed to revise /home/graham_s/julia/vw/WaterGiniF/app.jl
+│   exception = Revise.ReviseEvalException("/home/graham_s/.julia/packages/Stipple/TJzkE/src/ReactiveTools.jl:388", UndefVarError(:Layout), Any[(top-level scope at ReactiveTools.jl:388, 1)])
+└ @ Revise /home/graham_s/.julia/packages/Revise/sCmwS/src/packagedef.jl:722
+┌ Error: 2023-12-29 20:54:52 UndefVarError: `Layout` not defined
+│ Stacktrace:
+│   [1] Main.App.var"##Main.App_ReactiveModel!#272"()
+│     @ Main.App ~/.julia/packages/Stipple/TJzkE/src/Stipple.jl:981
+│   [2] #invokelatest#2
+│     @ ./essentials.jl:887 [inlined]
+│   [3] invokelatest
+│     @ ./essentials.jl:884 [inlined]
+│   [4] |>
+│     @ ./operators.jl:917 [inlined]
+│   [5] init(t::Type{Main.App.var"Main.App_ReactiveModel"}; vue_app_name::String, endpoint::String, channel::Any, debounce::Int64, transport::Module, core_theme::Bool)
+│     @ Stipple ~/.julia/packages/Stipple/TJzkE/src/Stipple.jl:447
+│   [6] init_from_storage(t::Type{Main.App.var"Main.App_ReactiveModel"}; channel::String, kwargs::@Kwargs{})
+│     @ Stipple.ModelStorage.Sessions ~/.julia/packages/Stipple/TJzkE/src/ModelStorage.jl:15
+│   [7] init_from_storage(t::Type{Main.App.var"Main.App_ReactiveModel"})
+│     @ Stipple.ModelStorage.Sessions ~/.julia/packages/Stipple/TJzkE/src/ModelStorage.jl:11
+│   [8] top-level scope
+│     @ ~/.julia/packages/Stipple/TJzkE/src/ReactiveTools.jl:614
+│   [9] eval
+│     @ Core ./boot.jl:385 [inlined]
+│  [10] (::Stipple.ReactiveTools.var"#32#34"{Module, Vector{Any}})()
+│     @ Stipple.ReactiveTools ~/.julia/packages/Stipple/TJzkE/src/ReactiveTools.jl:1038
+│  [11] #invokelatest#2
+│     @ ./essentials.jl:887 [inlined]
+│  [12] invokelatest
+│     @ ./essentials.jl:884 [inlined]
+│  [13] (::Stipple.Pages.var"#5#6"{typeof(Main.App.ui), Stipple.ReactiveTools.var"#32#34"{Module, Vector{Any}}, String, @Kwargs{}})()
+│     @ Stipple.Pages ~/.julia/packages/Stipple/TJzkE/src/Pages.jl:68
+│  [14] run_route(r::Genie.Router.Route)
+│     @ Genie.Router ~/.julia/packages/Genie/X0ACI/src/Router.jl:537
+│  [15] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Router ~/.julia/packages/Genie/X0ACI/src/Router.jl:173
+│  [16] route_request
+│     @ ~/.julia/packages/Genie/X0ACI/src/Router.jl:147 [inlined]
+│  [17] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/X0ACI/src/Server.jl:283
+│  [18] handle_request
+│     @ Genie.Server ~/.julia/packages/Genie/X0ACI/src/Server.jl:275 [inlined]
+│  [19] (::Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server /opt/julia-1.10.0/share/julia/stdlib/v1.10/Distributed/src/macros.jl:123
+│  [20] #invokelatest#2
+│     @ ./essentials.jl:887 [inlined]
+│  [21] invokelatest
+│     @ ./essentials.jl:884 [inlined]
+│  [22] #153
+│     @ /opt/julia-1.10.0/share/julia/stdlib/v1.10/Distributed/src/remotecall.jl:425 [inlined]
+│  [23] run_work_thunk(thunk::Distributed.var"#153#154"{Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, @Kwargs{}}, print_error::Bool)
+│     @ Distributed /opt/julia-1.10.0/share/julia/stdlib/v1.10/Distributed/src/process_messages.jl:70
+│  [24] #remotecall_fetch#158
+│     @ /opt/julia-1.10.0/share/julia/stdlib/v1.10/Distributed/src/remotecall.jl:450 [inlined]
+│  [25] remotecall_fetch(::Function, ::Distributed.Worker)
+│     @ Distributed /opt/julia-1.10.0/share/julia/stdlib/v1.10/Distributed/src/remotecall.jl:449 [inlined]
+│  [26] remotecall_fetch(::Function, ::Distributed.Worker)
+│     @ Distributed /opt/julia-1.10.0/share/julia/stdlib/v1.10/Distributed/src/remotecall.jl:492 [inlined]
+│  [27] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/X0ACI/src/Server.jl:327
+│  [28] setup_http_listener (repeats 2 times)
+│     @ ~/.julia/packages/Genie/X0ACI/src/Server.jl:325 [inlined]
+│  [29] (::Genie.Server.var"#32#33"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/X0ACI/src/Server.jl:296
+│  [30] setup_http_streamer(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/X0ACI/src/Server.jl:316
+│  [31] (::Genie.Server.var"#7#15")(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/X0ACI/src/Server.jl:123
+│  [32] #invokelatest#2
+│     @ ./essentials.jl:887 [inlined]
+│  [33] invokelatest
+│     @ ./essentials.jl:884 [inlined]
+│  [34] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing)
+│     @ HTTP.Servers ~/.julia/packages/HTTP/bDoga/src/Servers.jl:450
+│  [35] (::HTTP.Servers.var"#16#17"{Genie.Server.var"#7#15", HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, Set{HTTP.Connections.Connection}, Int64, Nothing, Base.Semaphore, HTTP.Connections.Connection{Sockets.TCPSocket}})()
+│     @ HTTP.Servers ~/.julia/packages/HTTP/bDoga/src/Servers.jl:386
+│ 
+└ @ Genie.Server /home/graham_s/.julia/packages/Genie/X0ACI/src/Server.jl:339
+┌ Error: 2023-12-29 20:56:00 MethodError: no method matching ui()
+│ 
+│ Closest candidates are:
+│   ui() (method too new to be called from this world context.)
+│    @ Main.App ~/julia/vw/WaterGiniF/app.jl:78
+│ 
+│ Stacktrace:
+│   [1] html!(data::typeof(Main.App.ui); context::Module, status::Int64, headers::Dict{String, String}, layout::String, forceparse::Bool, noparse::Bool, vars::@Kwargs{model::Main.App.var"##Main.App_ReactiveModel!#275"})
+│     @ Genie.Renderer.Html ~/.julia/packages/Genie/X0ACI/src/renderers/Html.jl:567
+│   [2] (::Stipple.Pages.var"#5#6"{typeof(Main.App.ui), Stipple.ReactiveTools.var"#32#34"{Module, Vector{Any}}, String, @Kwargs{}})()
+│     @ Stipple.Pages ~/.julia/packages/Stipple/TJzkE/src/Pages.jl:68
+│   [3] run_route(r::Genie.Router.Route)
+│     @ Genie.Router ~/.julia/packages/Genie/X0ACI/src/Router.jl:537
+│   [4] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Router ~/.julia/packages/Genie/X0ACI/src/Router.jl:173
+│   [5] route_request
+│     @ ~/.julia/packages/Genie/X0ACI/src/Router.jl:147 [inlined]
+│   [6] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/X0ACI/src/Server.jl:283
+│   [7] handle_request
+│     @ Genie.Server ~/.julia/packages/Genie/X0ACI/src/Server.jl:275 [inlined]
+│   [8] (::Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server /opt/julia-1.10.0/share/julia/stdlib/v1.10/Distributed/src/macros.jl:123
+│   [9] #invokelatest#2
+│     @ ./essentials.jl:887 [inlined]
+│  [10] invokelatest
+│     @ ./essentials.jl:884 [inlined]
+│  [11] #153
+│     @ /opt/julia-1.10.0/share/julia/stdlib/v1.10/Distributed/src/remotecall.jl:425 [inlined]
+│  [12] run_work_thunk(thunk::Distributed.var"#153#154"{Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, @Kwargs{}}, print_error::Bool)
+│     @ Distributed /opt/julia-1.10.0/share/julia/stdlib/v1.10/Distributed/src/process_messages.jl:70
+│  [13] #remotecall_fetch#158
+│     @ /opt/julia-1.10.0/share/julia/stdlib/v1.10/Distributed/src/remotecall.jl:450 [inlined]
+│  [14] remotecall_fetch(::Function, ::Distributed.Worker)
+│     @ Distributed /opt/julia-1.10.0/share/julia/stdlib/v1.10/Distributed/src/remotecall.jl:449 [inlined]
+│  [15] remotecall_fetch(::Function, ::Distributed.Worker)
+│     @ Distributed /opt/julia-1.10.0/share/julia/stdlib/v1.10/Distributed/src/remotecall.jl:492 [inlined]
+│  [16] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/X0ACI/src/Server.jl:327
+│  [17] setup_http_listener (repeats 2 times)
+│     @ ~/.julia/packages/Genie/X0ACI/src/Server.jl:325 [inlined]
+│  [18] (::Genie.Server.var"#32#33"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/X0ACI/src/Server.jl:296
+│  [19] setup_http_streamer(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/X0ACI/src/Server.jl:316
+│  [20] (::Genie.Server.var"#7#15")(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/X0ACI/src/Server.jl:123
+│  [21] #invokelatest#2
+│     @ ./essentials.jl:887 [inlined]
+│  [22] invokelatest
+│     @ ./essentials.jl:884 [inlined]
+│  [23] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing)
+│     @ HTTP.Servers ~/.julia/packages/HTTP/bDoga/src/Servers.jl:450
+│  [24] (::HTTP.Servers.var"#16#17"{Genie.Server.var"#7#15", HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, Set{HTTP.Connections.Connection}, Int64, Nothing, Base.Semaphore, HTTP.Connections.Connection{Sockets.TCPSocket}})()
+│     @ HTTP.Servers ~/.julia/packages/HTTP/bDoga/src/Servers.jl:386
+│ 
+└ @ Genie.Server /home/graham_s/.julia/packages/Genie/X0ACI/src/Server.jl:339
+┌ Error: 2023-12-29 21:05:29 Failed to revise /home/graham_s/julia/vw/WaterGiniF/app.jl
+│   exception = Revise.ReviseEvalException("/home/graham_s/.julia/packages/Stipple/TJzkE/src/ReactiveTools.jl:388", ArgumentError("column name :average_change_pw not found in the data frame"), Any[(lookupname(l::Dict{Symbol, Int64}, idx::Symbol) at index.jl:413, 1), (getindex(x::DataFrames.Index, idx::Symbol) at index.jl:422, 1), ((::DataFrames.var"#37#38"{DataFrames.Index})(i::Symbol) at none:0, 1), (iterate(g::Base.Generator{Vector{Symbol}, DataFrames.var"#37#38"{DataFrames.Index}}, s::Tuple{Int64}) at generator.jl:47, 1), (collect_to!(dest::Vector{Int64}, itr::Base.Generator{Vector{Symbol}, DataFrames.var"#37#38"{DataFrames.Index}}, offs::Int64, st::Int64) at array.jl:892, 1), (collect_to_with_first!(dest::Vector{Int64}, v1::Int64, itr::Base.Generator{Vector{Symbol}, DataFrames.var"#37#38"{DataFrames.Index}}, st::Int64) at array.jl:870, 1), (collect(itr::Base.Generator{Vector{Symbol}, DataFrames.var"#37#38"{DataFrames.Index}}) at array.jl:844, 1), (getindex(x::DataFrames.Index, idx::Vector{Symbol}) at index.jl:428, 1), (getindex(df::DataFrames.DataFrame, row_ind::Colon, col_inds::Vector{Symbol}) at dataframe.jl:627, 1), (getindex(dt::DataTable{DataFrames.DataFrame}, args::Tuple{Colon, Vector{Symbol}}) at Tables.jl:329, 1), (top-level scope at ReactiveTools.jl:388, 1)])
+└ @ Revise /home/graham_s/.julia/packages/Revise/sCmwS/src/packagedef.jl:722
+┌ Warning: 2023-12-29 21:05:29 The running code does not match the saved version for the following files:
+│ 
+│   /home/graham_s/julia/vw/WaterGiniF/app.jl
+│ 
+│ If the error was due to evaluation order, it can sometimes be resolved by calling `Revise.retry()`.
+│ Use Revise.errors() to report errors again. Only the first error in each file is shown.
+│ Your prompt color may be yellow until the errors are resolved.
+└ @ Revise /home/graham_s/.julia/packages/Revise/sCmwS/src/packagedef.jl:832
+┌ Error: 2023-12-29 21:05:59 Failed to revise /home/graham_s/julia/vw/WaterGiniF/app.jl
+│   exception = Revise.ReviseEvalException("/home/graham_s/.julia/packages/Stipple/TJzkE/src/ReactiveTools.jl:388", ArgumentError("column name :average_change_pw not found in the data frame"), Any[(lookupname(l::Dict{Symbol, Int64}, idx::Symbol) at index.jl:413, 1), (getindex(x::DataFrames.Index, idx::Symbol) at index.jl:422, 1), ((::DataFrames.var"#37#38"{DataFrames.Index})(i::Symbol) at none:0, 1), (iterate(g::Base.Generator{Vector{Symbol}, DataFrames.var"#37#38"{DataFrames.Index}}, s::Tuple{Int64}) at generator.jl:47, 1), (collect_to!(dest::Vector{Int64}, itr::Base.Generator{Vector{Symbol}, DataFrames.var"#37#38"{DataFrames.Index}}, offs::Int64, st::Int64) at array.jl:892, 1), (collect_to_with_first!(dest::Vector{Int64}, v1::Int64, itr::Base.Generator{Vector{Symbol}, DataFrames.var"#37#38"{DataFrames.Index}}, st::Int64) at array.jl:870, 1), (collect(itr::Base.Generator{Vector{Symbol}, DataFrames.var"#37#38"{DataFrames.Index}}) at array.jl:844, 1), (getindex(x::DataFrames.Index, idx::Vector{Symbol}) at index.jl:428, 1), (getindex(df::DataFrames.DataFrame, row_ind::Colon, col_inds::Vector{Symbol}) at dataframe.jl:627, 1), (getindex(dt::DataTable{DataFrames.DataFrame}, args::Tuple{Colon, Vector{Symbol}}) at Tables.jl:329, 1), (top-level scope at ReactiveTools.jl:388, 1)])
+└ @ Revise /home/graham_s/.julia/packages/Revise/sCmwS/src/packagedef.jl:722
+┌ Error: 2023-12-29 21:06:31 Failed to revise /home/graham_s/julia/vw/WaterGiniF/app.jl
+│   exception = Revise.ReviseEvalException("/home/graham_s/.julia/packages/Stipple/TJzkE/src/ReactiveTools.jl:388", ArgumentError("column name :average_change_pw not found in the data frame"), Any[(lookupname(l::Dict{Symbol, Int64}, idx::Symbol) at index.jl:413, 1), (getindex(x::DataFrames.Index, idx::Symbol) at index.jl:422, 1), ((::DataFrames.var"#37#38"{DataFrames.Index})(i::Symbol) at none:0, 1), (iterate(g::Base.Generator{Vector{Symbol}, DataFrames.var"#37#38"{DataFrames.Index}}, s::Tuple{Int64}) at generator.jl:47, 1), (collect_to!(dest::Vector{Int64}, itr::Base.Generator{Vector{Symbol}, DataFrames.var"#37#38"{DataFrames.Index}}, offs::Int64, st::Int64) at array.jl:892, 1), (collect_to_with_first!(dest::Vector{Int64}, v1::Int64, itr::Base.Generator{Vector{Symbol}, DataFrames.var"#37#38"{DataFrames.Index}}, st::Int64) at array.jl:870, 1), (collect(itr::Base.Generator{Vector{Symbol}, DataFrames.var"#37#38"{DataFrames.Index}}) at array.jl:844, 1), (getindex(x::DataFrames.Index, idx::Vector{Symbol}) at index.jl:428, 1), (getindex(df::DataFrames.DataFrame, row_ind::Colon, col_inds::Vector{Symbol}) at dataframe.jl:627, 1), (getindex(dt::DataTable{DataFrames.DataFrame}, args::Tuple{Colon, Vector{Symbol}}) at Tables.jl:329, 1), (top-level scope at ReactiveTools.jl:388, 1)])
+└ @ Revise /home/graham_s/.julia/packages/Revise/sCmwS/src/packagedef.jl:722
+┌ Error: 2023-12-29 21:10:05 ArgumentError: column name :average_change_pw not found in the data frame
+│ Stacktrace:
+│   [1] lookupname
+│     @ ~/.julia/packages/DataFrames/58MUJ/src/other/index.jl:413 [inlined]
+│   [2] getindex
+│     @ ~/.julia/packages/DataFrames/58MUJ/src/other/index.jl:422 [inlined]
+│   [3] (::DataFrames.var"#37#38"{DataFrames.Index})(i::Symbol)
+│     @ DataFrames ./none:0
+│   [4] iterate(g::Base.Generator, s::Vararg{Any})
+│     @ Base ./generator.jl:47 [inlined]
+│   [5] collect_to!(dest::AbstractArray{T}, itr::Any, offs::Any, st::Any) where T
+│     @ Base ./array.jl:892 [inlined]
+│   [6] collect_to_with_first!(dest::AbstractArray, v1::Any, itr::Any, st::Any)
+│     @ Base ./array.jl:870 [inlined]
+│   [7] collect(itr::Base.Generator{Vector{Symbol}, DataFrames.var"#37#38"{DataFrames.Index}})
+│     @ Base ./array.jl:844
+│   [8] getindex
+│     @ ~/.julia/packages/DataFrames/58MUJ/src/other/index.jl:428 [inlined]
+│   [9] getindex(df::DataFrames.DataFrame, row_ind::Colon, col_inds::Vector{Symbol})
+│     @ DataFrames ~/.julia/packages/DataFrames/58MUJ/src/dataframe/dataframe.jl:627
+│  [10] getindex
+│     @ ~/.julia/packages/StippleUI/EDbwS/src/Tables.jl:329 [inlined]
+│  [11] Main.App.var"##Main.App_ReactiveModel!#290"()
+│     @ Main.App ~/.julia/packages/Stipple/TJzkE/src/Stipple.jl:981
+│  [12] #invokelatest#2
+│     @ ./essentials.jl:887 [inlined]
+│  [13] invokelatest
+│     @ ./essentials.jl:884 [inlined]
+│  [14] |>
+│     @ ./operators.jl:917 [inlined]
+│  [15] init(t::Type{Main.App.var"Main.App_ReactiveModel"}; vue_app_name::String, endpoint::String, channel::Any, debounce::Int64, transport::Module, core_theme::Bool)
+│     @ Stipple ~/.julia/packages/Stipple/TJzkE/src/Stipple.jl:447
+│  [16] init_from_storage(t::Type{Main.App.var"Main.App_ReactiveModel"}; channel::String, kwargs::@Kwargs{})
+│     @ Stipple.ModelStorage.Sessions ~/.julia/packages/Stipple/TJzkE/src/ModelStorage.jl:15
+│  [17] init_from_storage(t::Type{Main.App.var"Main.App_ReactiveModel"})
+│     @ Stipple.ModelStorage.Sessions ~/.julia/packages/Stipple/TJzkE/src/ModelStorage.jl:11
+│  [18] top-level scope
+│     @ ~/.julia/packages/Stipple/TJzkE/src/ReactiveTools.jl:614
+│  [19] eval
+│     @ Core ./boot.jl:385 [inlined]
+│  [20] (::Stipple.ReactiveTools.var"#32#34"{Module, Vector{Any}})()
+│     @ Stipple.ReactiveTools ~/.julia/packages/Stipple/TJzkE/src/ReactiveTools.jl:1038
+│  [21] #invokelatest#2
+│     @ ./essentials.jl:887 [inlined]
+│  [22] invokelatest
+│     @ ./essentials.jl:884 [inlined]
+│  [23] (::Stipple.Pages.var"#5#6"{typeof(Main.App.ui), Stipple.ReactiveTools.var"#32#34"{Module, Vector{Any}}, String, @Kwargs{}})()
+│     @ Stipple.Pages ~/.julia/packages/Stipple/TJzkE/src/Pages.jl:68
+│  [24] run_route(r::Genie.Router.Route)
+│     @ Genie.Router ~/.julia/packages/Genie/X0ACI/src/Router.jl:537
+│  [25] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Router ~/.julia/packages/Genie/X0ACI/src/Router.jl:173
+│  [26] route_request
+│     @ ~/.julia/packages/Genie/X0ACI/src/Router.jl:147 [inlined]
+│  [27] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/X0ACI/src/Server.jl:283
+│  [28] handle_request
+│     @ Genie.Server ~/.julia/packages/Genie/X0ACI/src/Server.jl:275 [inlined]
+│  [29] (::Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server /opt/julia-1.10.0/share/julia/stdlib/v1.10/Distributed/src/macros.jl:123
+│  [30] #invokelatest#2
+│     @ ./essentials.jl:887 [inlined]
+│  [31] invokelatest
+│     @ ./essentials.jl:884 [inlined]
+│  [32] #153
+│     @ /opt/julia-1.10.0/share/julia/stdlib/v1.10/Distributed/src/remotecall.jl:425 [inlined]
+│  [33] run_work_thunk(thunk::Distributed.var"#153#154"{Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, @Kwargs{}}, print_error::Bool)
+│     @ Distributed /opt/julia-1.10.0/share/julia/stdlib/v1.10/Distributed/src/process_messages.jl:70
+│  [34] #remotecall_fetch#158
+│     @ /opt/julia-1.10.0/share/julia/stdlib/v1.10/Distributed/src/remotecall.jl:450 [inlined]
+│  [35] remotecall_fetch(::Function, ::Distributed.Worker)
+│     @ Distributed /opt/julia-1.10.0/share/julia/stdlib/v1.10/Distributed/src/remotecall.jl:449 [inlined]
+│  [36] remotecall_fetch(::Function, ::Distributed.Worker)
+│     @ Distributed /opt/julia-1.10.0/share/julia/stdlib/v1.10/Distributed/src/remotecall.jl:492 [inlined]
+│  [37] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/X0ACI/src/Server.jl:327
+│  [38] setup_http_listener (repeats 2 times)
+│     @ ~/.julia/packages/Genie/X0ACI/src/Server.jl:325 [inlined]
+│  [39] (::Genie.Server.var"#32#33"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/X0ACI/src/Server.jl:296
+│  [40] setup_http_streamer(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/X0ACI/src/Server.jl:316
+│  [41] (::Genie.Server.var"#7#15")(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/X0ACI/src/Server.jl:123
+│  [42] #invokelatest#2
+│     @ ./essentials.jl:887 [inlined]
+│  [43] invokelatest
+│     @ ./essentials.jl:884 [inlined]
+│  [44] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing)
+│     @ HTTP.Servers ~/.julia/packages/HTTP/bDoga/src/Servers.jl:450
+│  [45] (::HTTP.Servers.var"#16#17"{Genie.Server.var"#7#15", HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, Set{HTTP.Connections.Connection}, Int64, Nothing, Base.Semaphore, HTTP.Connections.Connection{Sockets.TCPSocket}})()
+│     @ HTTP.Servers ~/.julia/packages/HTTP/bDoga/src/Servers.jl:386
+│ 
+└ @ Genie.Server /home/graham_s/.julia/packages/Genie/X0ACI/src/Server.jl:339
+┌ Error: 2023-12-29 21:10:16 ArgumentError: column name :average_change_pw not found in the data frame
+│ Stacktrace:
+│   [1] lookupname
+│     @ ~/.julia/packages/DataFrames/58MUJ/src/other/index.jl:413 [inlined]
+│   [2] getindex
+│     @ ~/.julia/packages/DataFrames/58MUJ/src/other/index.jl:422 [inlined]
+│   [3] (::DataFrames.var"#37#38"{DataFrames.Index})(i::Symbol)
+│     @ DataFrames ./none:0
+│   [4] iterate(g::Base.Generator, s::Vararg{Any})
+│     @ Base ./generator.jl:47 [inlined]
+│   [5] collect_to!(dest::AbstractArray{T}, itr::Any, offs::Any, st::Any) where T
+│     @ Base ./array.jl:892 [inlined]
+│   [6] collect_to_with_first!(dest::AbstractArray, v1::Any, itr::Any, st::Any)
+│     @ Base ./array.jl:870 [inlined]
+│   [7] collect(itr::Base.Generator{Vector{Symbol}, DataFrames.var"#37#38"{DataFrames.Index}})
+│     @ Base ./array.jl:844
+│   [8] getindex
+│     @ ~/.julia/packages/DataFrames/58MUJ/src/other/index.jl:428 [inlined]
+│   [9] getindex(df::DataFrames.DataFrame, row_ind::Colon, col_inds::Vector{Symbol})
+│     @ DataFrames ~/.julia/packages/DataFrames/58MUJ/src/dataframe/dataframe.jl:627
+│  [10] getindex
+│     @ ~/.julia/packages/StippleUI/EDbwS/src/Tables.jl:329 [inlined]
+│  [11] Main.App.var"##Main.App_ReactiveModel!#290"()
+│     @ Main.App ~/.julia/packages/Stipple/TJzkE/src/Stipple.jl:981
+│  [12] #invokelatest#2
+│     @ ./essentials.jl:887 [inlined]
+│  [13] invokelatest
+│     @ ./essentials.jl:884 [inlined]
+│  [14] |>
+│     @ ./operators.jl:917 [inlined]
+│  [15] init(t::Type{Main.App.var"Main.App_ReactiveModel"}; vue_app_name::String, endpoint::String, channel::Any, debounce::Int64, transport::Module, core_theme::Bool)
+│     @ Stipple ~/.julia/packages/Stipple/TJzkE/src/Stipple.jl:447
+│  [16] init_from_storage(t::Type{Main.App.var"Main.App_ReactiveModel"}; channel::String, kwargs::@Kwargs{})
+│     @ Stipple.ModelStorage.Sessions ~/.julia/packages/Stipple/TJzkE/src/ModelStorage.jl:15
+│  [17] init_from_storage(t::Type{Main.App.var"Main.App_ReactiveModel"})
+│     @ Stipple.ModelStorage.Sessions ~/.julia/packages/Stipple/TJzkE/src/ModelStorage.jl:11
+│  [18] top-level scope
+│     @ ~/.julia/packages/Stipple/TJzkE/src/ReactiveTools.jl:614
+│  [19] eval
+│     @ Core ./boot.jl:385 [inlined]
+│  [20] (::Stipple.ReactiveTools.var"#32#34"{Module, Vector{Any}})()
+│     @ Stipple.ReactiveTools ~/.julia/packages/Stipple/TJzkE/src/ReactiveTools.jl:1038
+│  [21] #invokelatest#2
+│     @ ./essentials.jl:887 [inlined]
+│  [22] invokelatest
+│     @ ./essentials.jl:884 [inlined]
+│  [23] (::Stipple.Pages.var"#5#6"{typeof(Main.App.ui), Stipple.ReactiveTools.var"#32#34"{Module, Vector{Any}}, String, @Kwargs{}})()
+│     @ Stipple.Pages ~/.julia/packages/Stipple/TJzkE/src/Pages.jl:68
+│  [24] run_route(r::Genie.Router.Route)
+│     @ Genie.Router ~/.julia/packages/Genie/X0ACI/src/Router.jl:537
+│  [25] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Router ~/.julia/packages/Genie/X0ACI/src/Router.jl:173
+│  [26] route_request
+│     @ ~/.julia/packages/Genie/X0ACI/src/Router.jl:147 [inlined]
+│  [27] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/X0ACI/src/Server.jl:283
+│  [28] handle_request
+│     @ Genie.Server ~/.julia/packages/Genie/X0ACI/src/Server.jl:275 [inlined]
+│  [29] (::Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server /opt/julia-1.10.0/share/julia/stdlib/v1.10/Distributed/src/macros.jl:123
+│  [30] #invokelatest#2
+│     @ ./essentials.jl:887 [inlined]
+│  [31] invokelatest
+│     @ ./essentials.jl:884 [inlined]
+│  [32] #153
+│     @ /opt/julia-1.10.0/share/julia/stdlib/v1.10/Distributed/src/remotecall.jl:425 [inlined]
+│  [33] run_work_thunk(thunk::Distributed.var"#153#154"{Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, @Kwargs{}}, print_error::Bool)
+│     @ Distributed /opt/julia-1.10.0/share/julia/stdlib/v1.10/Distributed/src/process_messages.jl:70
+│  [34] #remotecall_fetch#158
+│     @ /opt/julia-1.10.0/share/julia/stdlib/v1.10/Distributed/src/remotecall.jl:450 [inlined]
+│  [35] remotecall_fetch(::Function, ::Distributed.Worker)
+│     @ Distributed /opt/julia-1.10.0/share/julia/stdlib/v1.10/Distributed/src/remotecall.jl:449 [inlined]
+│  [36] remotecall_fetch(::Function, ::Distributed.Worker)
+│     @ Distributed /opt/julia-1.10.0/share/julia/stdlib/v1.10/Distributed/src/remotecall.jl:492 [inlined]
+│  [37] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/X0ACI/src/Server.jl:327
+│  [38] setup_http_listener (repeats 2 times)
+│     @ ~/.julia/packages/Genie/X0ACI/src/Server.jl:325 [inlined]
+│  [39] (::Genie.Server.var"#32#33"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/X0ACI/src/Server.jl:296
+│  [40] setup_http_streamer(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/X0ACI/src/Server.jl:316
+│  [41] (::Genie.Server.var"#7#15")(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/X0ACI/src/Server.jl:123
+│  [42] #invokelatest#2
+│     @ ./essentials.jl:887 [inlined]
+│  [43] invokelatest
+│     @ ./essentials.jl:884 [inlined]
+│  [44] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing)
+│     @ HTTP.Servers ~/.julia/packages/HTTP/bDoga/src/Servers.jl:450
+│  [45] (::HTTP.Servers.var"#16#17"{Genie.Server.var"#7#15", HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, Set{HTTP.Connections.Connection}, Int64, Nothing, Base.Semaphore, HTTP.Connections.Connection{Sockets.TCPSocket}})()
+│     @ HTTP.Servers ~/.julia/packages/HTTP/bDoga/src/Servers.jl:386
+│ 
+└ @ Genie.Server /home/graham_s/.julia/packages/Genie/X0ACI/src/Server.jl:339
+┌ Info: 2023-12-29 21:10:52 initial startup
+└ @ Main.WaterSims /home/graham_s/julia/vw/WaterGiniF/lib/WaterSims.jl:151
+┌ Info: 2023-12-29 21:10:53 Watching ["/home/graham_s/julia/vw/WaterGiniF"]
+└ @ GenieAutoReload /home/graham_s/.julia/packages/GenieAutoReload/c8XpJ/src/GenieAutoReload.jl:19
+┌ Info: 2023-12-29 21:11:33 
+│ Web Server starting at http://127.0.0.1:8081 
+└ @ Genie.Server /home/graham_s/.julia/packages/Genie/X0ACI/src/Server.jl:166
+┌ Info: 2023-12-29 21:11:33 Listening on: 127.0.0.1:8081, thread id: 1
+└ @ HTTP.Servers /home/graham_s/.julia/packages/HTTP/bDoga/src/Servers.jl:367
