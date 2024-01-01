@@ -30,6 +30,7 @@ function make_base_run(target)
             x=deciles.decile, 
             y=deciles.average_change )]
     base_revenues = WEEKS_PER_YEAR*sum( out.weighted_water_1 )
+    println("make base run exiting")
     (; deciles, tenures, regions, base_revenues, children, decbar )
 end
 
