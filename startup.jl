@@ -8,7 +8,7 @@ Genie.config.websockets_server = true
 HACK_PROD=true
 if HACK_PROD 
     Genie.Configuration.config!(
-    server_port                     = 80,
+    server_port                     = 8081,
     server_host                     = "0.0.0.0",
     # log_level                       = Logging.Error,
     # log_to_file                     = false,
@@ -21,7 +21,7 @@ if HACK_PROD
     ENV["JULIA_REVISE"] = "off"
 end
 
-Genie.loadapp( ".",autostart=false )
+Genie.loadapp() # ".",autostart=false )
 println( "app loaded, trying up")
 
 up()
