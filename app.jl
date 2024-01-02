@@ -1,7 +1,6 @@
 module App
 
 using GenieFramework
-using Main.Maths
 using Main.WaterSims
 using PlotlyBase
 using Formatting
@@ -11,8 +10,8 @@ using DataFrames
 
 settings = WaterSims.initialise(reset=true) # WaterSims.make_default_settings()
 
-function make_base_run(target)
-    out = WaterSims.run( settings, target )
+function make_base_run(needed_extra_revenue)
+    out = WaterSims.run( settings, needed_extra_revenue )
     println( "settings=$(settings)")
     println( out[1:10,:])
     deciles = WaterSims.tabulate( out, :decile )
@@ -42,7 +41,7 @@ end
 
 @app begin
 
-    @in target = 0.0
+    @in needed_extra_revenue = 0.0
     
     @out decbar = getbase( :decbar )
     # FIXME all this tables malarkey isn't needed. See:
@@ -53,7 +52,7 @@ end
     @out children = DataTable(getbase(:children))[:,[:children,:average_change_pw]]
     @out data_pagination::DataTablePagination = DataTablePagination(rows_per_page=50)
     @out billchange = 0.0
-    @out targetmn = "0"
+    @out needed_extra_revenuemn = "0"
     @out plotlayout = PlotlyBase.Layout(
         title="Change in Water and Sewerage Bills From Poorest To Richest",
         yaxis=attr(
@@ -68,18 +67,22 @@ end
 
     )
 
-    @onchange target begin
-        br = getbase(:base_revenues)
-        billchange = 100.0*target/br
+    println( "#1")
+    br = getbase(:base_revenues)
+    println( "base_revenues $br") 
+    @onchange needed_extra_revenue begin 
+        println( "#2")
+        billchange = 100.0*needed_extra_revenue/br
+        println( "#3")
         out = make_base_run( 1+(billchange/100.0) )
         deciles = DataTable( out.deciles )[:,[:decile,:average_change_pw]]
         tenures = DataTable( out.tenures )[:,[:tenure,:average_change_pw]]
         children = DataTable( out.children )[:,[:children,:average_change_pw]]
         regions = DataTable( out.regions )[:,[:region,:average_change_pw]]
         decbar = out.decbar
-        targetmn = Formatting.format( target/1_000_000, commas=true )
+        needed_extra_revenuemn = Formatting.format( needed_extra_revenue/1_000_000, commas=true )
     end 
-
+    println("after on change")
 end
 
 function ui()
@@ -92,8 +95,8 @@ function ui()
         row([
             cell([
                 span("How much investment do you need? (per year):" )
-                slider(0.0:50_000_000.0:20_000_000_000.0,:target)
-                p("Target to be raised: <b>£{{targetmn}}mn</b> p.a. Average bill change <b>{{billchange.toFixed(1)}}%</b>")
+                slider(0.0:50_000_000.0:20_000_000_000.0,:needed_extra_revenue)
+                p("needed_extra_revenue to be raised: <b>£{{needed_extra_revenuemn}}mn</b> p.a. Average bill change <b>{{billchange.toFixed(1)}}%</b>")
             ]),
             cell([
                 """ 
@@ -156,6 +159,8 @@ Welsh Water is a not for profit. Scottish Water and Northern Irish Water are bot
 end
 
 
+println( "before page")
 @page( "/", ui )
+println( "after page")
 
 end # module
